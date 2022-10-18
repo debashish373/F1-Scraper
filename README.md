@@ -1,5 +1,10 @@
-Main python script is F1scraper.py
+# How to use the files in this repository?
 
-All summarized files are stored in the Summaries folder.
+```python
+pip install -r requirements.txt
+cd src
+```
 
-All detailed files are stored in the GPDetails folder.
+```python
+python3 run F1scraper.py
+```
