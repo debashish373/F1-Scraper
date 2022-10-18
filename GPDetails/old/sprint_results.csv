@@ -1,0 +1,101 @@
+Pos,No,Driver,Car,Laps,Time/Retired,PTS,Year,Grand Prix,Detail,DriverCode
+1,33,Max Verstappen,Red Bull Racing Honda,17,25:38.426,3,2021,Great Britain,Sprint-Results,VER
+2,44,Lewis Hamilton,Mercedes,17,+1.430s,2,2021,Great Britain,Sprint-Results,HAM
+3,77,Valtteri Bottas,Mercedes,17,+7.502s,1,2021,Great Britain,Sprint-Results,BOT
+4,16,Charles Leclerc,Ferrari,17,+11.278s,0,2021,Great Britain,Sprint-Results,LEC
+5,4,Lando Norris,McLaren Mercedes,17,+24.111s,0,2021,Great Britain,Sprint-Results,NOR
+6,3,Daniel Ricciardo,McLaren Mercedes,17,+30.959s,0,2021,Great Britain,Sprint-Results,RIC
+7,14,Fernando Alonso,Alpine Renault,17,+43.527s,0,2021,Great Britain,Sprint-Results,ALO
+8,5,Sebastian Vettel,Aston Martin Mercedes,17,+44.439s,0,2021,Great Britain,Sprint-Results,VET
+9,63,George Russell,Williams Mercedes,17,+46.652s,0,2021,Great Britain,Sprint-Results,RUS
+10,31,Esteban Ocon,Alpine Renault,17,+47.395s,0,2021,Great Britain,Sprint-Results,OCO
+11,55,Carlos Sainz,Ferrari,17,+47.798s,0,2021,Great Britain,Sprint-Results,SAI
+12,10,Pierre Gasly,AlphaTauri Honda,17,+48.763s,0,2021,Great Britain,Sprint-Results,GAS
+13,7,Kimi Räikkönen,Alfa Romeo Racing Ferrari,17,+50.677s,0,2021,Great Britain,Sprint-Results,RAI
+14,18,Lance Stroll,Aston Martin Mercedes,17,+52.179s,0,2021,Great Britain,Sprint-Results,STR
+15,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,17,+53.225s,0,2021,Great Britain,Sprint-Results,GIO
+16,22,Yuki Tsunoda,AlphaTauri Honda,17,+53.567s,0,2021,Great Britain,Sprint-Results,TSU
+17,6,Nicholas Latifi,Williams Mercedes,17,+55.162s,0,2021,Great Britain,Sprint-Results,LAT
+18,47,Mick Schumacher,Haas Ferrari,17,+68.213s,0,2021,Great Britain,Sprint-Results,MSC
+19,9,Nikita Mazepin,Haas Ferrari,17,+77.648s,0,2021,Great Britain,Sprint-Results,MAZ
+20,11,Sergio Perez,Red Bull Racing Honda,16,DNF,0,2021,Great Britain,Sprint-Results,PER
+1,77,Valtteri Bottas,Mercedes,18,27:54.078,3,2021,Italy,Sprint-Results,BOT
+2,33,Max Verstappen,Red Bull Racing Honda,18,+2.325s,2,2021,Italy,Sprint-Results,VER
+3,3,Daniel Ricciardo,McLaren Mercedes,18,+14.534s,1,2021,Italy,Sprint-Results,RIC
+4,4,Lando Norris,McLaren Mercedes,18,+18.835s,0,2021,Italy,Sprint-Results,NOR
+5,44,Lewis Hamilton,Mercedes,18,+20.011s,0,2021,Italy,Sprint-Results,HAM
+6,16,Charles Leclerc,Ferrari,18,+23.442s,0,2021,Italy,Sprint-Results,LEC
+7,55,Carlos Sainz,Ferrari,18,+27.952s,0,2021,Italy,Sprint-Results,SAI
+8,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,18,+31.089s,0,2021,Italy,Sprint-Results,GIO
+9,11,Sergio Perez,Red Bull Racing Honda,18,+31.680s,0,2021,Italy,Sprint-Results,PER
+10,18,Lance Stroll,Aston Martin Mercedes,18,+38.671s,0,2021,Italy,Sprint-Results,STR
+11,14,Fernando Alonso,Alpine Renault,18,+39.795s,0,2021,Italy,Sprint-Results,ALO
+12,5,Sebastian Vettel,Aston Martin Mercedes,18,+41.177s,0,2021,Italy,Sprint-Results,VET
+13,31,Esteban Ocon,Alpine Renault,18,+43.373s,0,2021,Italy,Sprint-Results,OCO
+14,6,Nicholas Latifi,Williams Mercedes,18,+45.977s,0,2021,Italy,Sprint-Results,LAT
+15,63,George Russell,Williams Mercedes,18,+46.821s,0,2021,Italy,Sprint-Results,RUS
+16,22,Yuki Tsunoda,AlphaTauri Honda,18,+49.977s,0,2021,Italy,Sprint-Results,TSU
+17,9,Nikita Mazepin,Haas Ferrari,18,+62.599s,0,2021,Italy,Sprint-Results,MAZ
+18,88,Robert Kubica,Alfa Romeo Racing Ferrari,18,+65.096s,0,2021,Italy,Sprint-Results,KUB
+19,47,Mick Schumacher,Haas Ferrari,18,+66.154s,0,2021,Italy,Sprint-Results,MSC
+NC,10,Pierre Gasly,AlphaTauri Honda,0,DNF,0,2021,Italy,Sprint-Results,GAS
+1,77,Valtteri Bottas,Mercedes,24,29:09.559,3,2021,Brazil,Sprint-Results,BOT
+2,33,Max Verstappen,Red Bull Racing Honda,24,+1.170s,2,2021,Brazil,Sprint-Results,VER
+3,55,Carlos Sainz,Ferrari,24,+18.723s,1,2021,Brazil,Sprint-Results,SAI
+4,11,Sergio Perez,Red Bull Racing Honda,24,+19.787s,0,2021,Brazil,Sprint-Results,PER
+5,44,Lewis Hamilton,Mercedes,24,+20.872s,0,2021,Brazil,Sprint-Results,HAM
+6,4,Lando Norris,McLaren Mercedes,24,+22.558s,0,2021,Brazil,Sprint-Results,NOR
+7,16,Charles Leclerc,Ferrari,24,+25.056s,0,2021,Brazil,Sprint-Results,LEC
+8,10,Pierre Gasly,AlphaTauri Honda,24,+34.158s,0,2021,Brazil,Sprint-Results,GAS
+9,31,Esteban Ocon,Alpine Renault,24,+34.632s,0,2021,Brazil,Sprint-Results,OCO
+10,5,Sebastian Vettel,Aston Martin Mercedes,24,+34.867s,0,2021,Brazil,Sprint-Results,VET
+11,3,Daniel Ricciardo,McLaren Mercedes,24,+35.869s,0,2021,Brazil,Sprint-Results,RIC
+12,14,Fernando Alonso,Alpine Renault,24,+36.578s,0,2021,Brazil,Sprint-Results,ALO
+13,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,24,+41.880s,0,2021,Brazil,Sprint-Results,GIO
+14,18,Lance Stroll,Aston Martin Mercedes,24,+44.037s,0,2021,Brazil,Sprint-Results,STR
+15,22,Yuki Tsunoda,AlphaTauri Honda,24,+46.150s,0,2021,Brazil,Sprint-Results,TSU
+16,6,Nicholas Latifi,Williams Mercedes,24,+46.760s,0,2021,Brazil,Sprint-Results,LAT
+17,63,George Russell,Williams Mercedes,24,+47.739s,0,2021,Brazil,Sprint-Results,RUS
+18,7,Kimi Räikkönen,Alfa Romeo Racing Ferrari,24,+50.014s,0,2021,Brazil,Sprint-Results,RAI
+19,47,Mick Schumacher,Haas Ferrari,24,+61.680s,0,2021,Brazil,Sprint-Results,MSC
+20,9,Nikita Mazepin,Haas Ferrari,24,+67.474s,0,2021,Brazil,Sprint-Results,MAZ
+1,1,Max Verstappen,Red Bull Racing RBPT,21,30:39.567,8,2022,Emilia Romagna,Sprint-Results,VER
+2,16,Charles Leclerc,Ferrari,21,+2.975s,7,2022,Emilia Romagna,Sprint-Results,LEC
+3,11,Sergio Perez,Red Bull Racing RBPT,21,+4.721s,6,2022,Emilia Romagna,Sprint-Results,PER
+4,55,Carlos Sainz,Ferrari,21,+17.578s,5,2022,Emilia Romagna,Sprint-Results,SAI
+5,4,Lando Norris,McLaren Mercedes,21,+24.561s,4,2022,Emilia Romagna,Sprint-Results,NOR
+6,3,Daniel Ricciardo,McLaren Mercedes,21,+27.740s,3,2022,Emilia Romagna,Sprint-Results,RIC
+7,77,Valtteri Bottas,Alfa Romeo Ferrari,21,+28.133s,2,2022,Emilia Romagna,Sprint-Results,BOT
+8,20,Kevin Magnussen,Haas Ferrari,21,+30.712s,1,2022,Emilia Romagna,Sprint-Results,MAG
+9,14,Fernando Alonso,Alpine Renault,21,+32.278s,0,2022,Emilia Romagna,Sprint-Results,ALO
+10,47,Mick Schumacher,Haas Ferrari,21,+33.773s,0,2022,Emilia Romagna,Sprint-Results,MSC
+11,63,George Russell,Mercedes,21,+36.284s,0,2022,Emilia Romagna,Sprint-Results,RUS
+12,22,Yuki Tsunoda,AlphaTauri RBPT,21,+38.298s,0,2022,Emilia Romagna,Sprint-Results,TSU
+13,5,Sebastian Vettel,Aston Martin Aramco Mercedes,21,+40.177s,0,2022,Emilia Romagna,Sprint-Results,VET
+14,44,Lewis Hamilton,Mercedes,21,+41.459s,0,2022,Emilia Romagna,Sprint-Results,HAM
+15,18,Lance Stroll,Aston Martin Aramco Mercedes,21,+42.910s,0,2022,Emilia Romagna,Sprint-Results,STR
+16,31,Esteban Ocon,Alpine Renault,21,+43.517s,0,2022,Emilia Romagna,Sprint-Results,OCO
+17,10,Pierre Gasly,AlphaTauri RBPT,21,+43.794s,0,2022,Emilia Romagna,Sprint-Results,GAS
+18,23,Alexander Albon,Williams Mercedes,21,+48.871s,0,2022,Emilia Romagna,Sprint-Results,ALB
+19,6,Nicholas Latifi,Williams Mercedes,21,+52.017s,0,2022,Emilia Romagna,Sprint-Results,LAT
+NC,24,Zhou Guanyu,Alfa Romeo Ferrari,0,DNF,0,2022,Emilia Romagna,Sprint-Results,ZHO
+1,1,Max Verstappen,Red Bull Racing RBPT,23,26:30.059,8,2022,Austria,Sprint-Results,VER
+2,16,Charles Leclerc,Ferrari,23,+1.675s,7,2022,Austria,Sprint-Results,LEC
+3,55,Carlos Sainz,Ferrari,23,+5.644s,6,2022,Austria,Sprint-Results,SAI
+4,63,George Russell,Mercedes,23,+13.429s,5,2022,Austria,Sprint-Results,RUS
+5,11,Sergio Perez,Red Bull Racing RBPT,23,+18.302s,4,2022,Austria,Sprint-Results,PER
+6,31,Esteban Ocon,Alpine Renault,23,+31.032s,3,2022,Austria,Sprint-Results,OCO
+7,20,Kevin Magnussen,Haas Ferrari,23,+34.539s,2,2022,Austria,Sprint-Results,MAG
+8,44,Lewis Hamilton,Mercedes,23,+35.447s,1,2022,Austria,Sprint-Results,HAM
+9,47,Mick Schumacher,Haas Ferrari,23,+37.163s,0,2022,Austria,Sprint-Results,MSC
+10,77,Valtteri Bottas,Alfa Romeo Ferrari,23,+37.557s,0,2022,Austria,Sprint-Results,BOT
+11,4,Lando Norris,McLaren Mercedes,23,+38.580s,0,2022,Austria,Sprint-Results,NOR
+12,3,Daniel Ricciardo,McLaren Mercedes,23,+39.738s,0,2022,Austria,Sprint-Results,RIC
+13,18,Lance Stroll,Aston Martin Aramco Mercedes,23,+48.241s,0,2022,Austria,Sprint-Results,STR
+14,24,Zhou Guanyu,Alfa Romeo Ferrari,23,+50.753s,0,2022,Austria,Sprint-Results,ZHO
+15,10,Pierre Gasly,AlphaTauri RBPT,23,+52.125s,0,2022,Austria,Sprint-Results,GAS
+16,23,Alexander Albon,Williams Mercedes,23,+52.412s,0,2022,Austria,Sprint-Results,ALB
+17,22,Yuki Tsunoda,AlphaTauri RBPT,23,+54.556s,0,2022,Austria,Sprint-Results,TSU
+18,6,Nicholas Latifi,Williams Mercedes,23,+68.694s,0,2022,Austria,Sprint-Results,LAT
+19,5,Sebastian Vettel,Aston Martin Aramco Mercedes,21,DNF,0,2022,Austria,Sprint-Results,VET
+NC,14,Fernando Alonso,Alpine Renault,0,DNS,0,2022,Austria,Sprint-Results,ALO

@@ -1,0 +1,101 @@
+Pos,No,Driver,Car,Time,Year,Grand Prix,Detail,DriverCode
+1,44,Lewis Hamilton,Mercedes,1:26.134,2021,Great Britain,Sprint-Grid,HAM
+2,33,Max Verstappen,Red Bull Racing Honda,1:26.209,2021,Great Britain,Sprint-Grid,VER
+3,77,Valtteri Bottas,Mercedes,1:26.328,2021,Great Britain,Sprint-Grid,BOT
+4,16,Charles Leclerc,Ferrari,1:26.828,2021,Great Britain,Sprint-Grid,LEC
+5,11,Sergio Perez,Red Bull Racing Honda,1:26.844,2021,Great Britain,Sprint-Grid,PER
+6,4,Lando Norris,McLaren Mercedes,1:26.897,2021,Great Britain,Sprint-Grid,NOR
+7,3,Daniel Ricciardo,McLaren Mercedes,1:26.899,2021,Great Britain,Sprint-Grid,RIC
+8,63,George Russell,Williams Mercedes,1:26.971,2021,Great Britain,Sprint-Grid,RUS
+9,55,Carlos Sainz,Ferrari,1:27.007,2021,Great Britain,Sprint-Grid,SAI
+10,5,Sebastian Vettel,Aston Martin Mercedes,1:27.179,2021,Great Britain,Sprint-Grid,VET
+11,14,Fernando Alonso,Alpine Renault,1:27.245,2021,Great Britain,Sprint-Grid,ALO
+12,10,Pierre Gasly,AlphaTauri Honda,1:27.273,2021,Great Britain,Sprint-Grid,GAS
+13,31,Esteban Ocon,Alpine Renault,1:27.340,2021,Great Britain,Sprint-Grid,OCO
+14,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,1:27.617,2021,Great Britain,Sprint-Grid,GIO
+15,18,Lance Stroll,Aston Martin Mercedes,1:27.665,2021,Great Britain,Sprint-Grid,STR
+16,22,Yuki Tsunoda,AlphaTauri Honda,1:28.043,2021,Great Britain,Sprint-Grid,TSU
+17,7,Kimi Räikkönen,Alfa Romeo Racing Ferrari,1:28.062,2021,Great Britain,Sprint-Grid,RAI
+18,6,Nicholas Latifi,Williams Mercedes,1:28.254,2021,Great Britain,Sprint-Grid,LAT
+19,47,Mick Schumacher,Haas Ferrari,1:28.738,2021,Great Britain,Sprint-Grid,MSC
+20,9,Nikita Mazepin,Haas Ferrari,1:29.051,2021,Great Britain,Sprint-Grid,MAZ
+1,77,Valtteri Bottas,Mercedes,1:19.555,2021,Italy,Sprint-Grid,BOT
+2,44,Lewis Hamilton,Mercedes,1:19.651,2021,Italy,Sprint-Grid,HAM
+3,33,Max Verstappen,Red Bull Racing Honda,1:19.966,2021,Italy,Sprint-Grid,VER
+4,4,Lando Norris,McLaren Mercedes,1:19.989,2021,Italy,Sprint-Grid,NOR
+5,3,Daniel Ricciardo,McLaren Mercedes,1:19.995,2021,Italy,Sprint-Grid,RIC
+6,10,Pierre Gasly,AlphaTauri Honda,1:20.260,2021,Italy,Sprint-Grid,GAS
+7,55,Carlos Sainz,Ferrari,1:20.462,2021,Italy,Sprint-Grid,SAI
+8,16,Charles Leclerc,Ferrari,1:20.510,2021,Italy,Sprint-Grid,LEC
+9,11,Sergio Perez,Red Bull Racing Honda,1:20.611,2021,Italy,Sprint-Grid,PER
+10,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,1:20.808,2021,Italy,Sprint-Grid,GIO
+11,5,Sebastian Vettel,Aston Martin Mercedes,1:20.913,2021,Italy,Sprint-Grid,VET
+12,18,Lance Stroll,Aston Martin Mercedes,1:21.020,2021,Italy,Sprint-Grid,STR
+13,14,Fernando Alonso,Alpine Renault,1:21.069,2021,Italy,Sprint-Grid,ALO
+14,31,Esteban Ocon,Alpine Renault,1:21.103,2021,Italy,Sprint-Grid,OCO
+15,63,George Russell,Williams Mercedes,1:21.392,2021,Italy,Sprint-Grid,RUS
+16,6,Nicholas Latifi,Williams Mercedes,1:21.925,2021,Italy,Sprint-Grid,LAT
+17,22,Yuki Tsunoda,AlphaTauri Honda,1:21.973,2021,Italy,Sprint-Grid,TSU
+18,47,Mick Schumacher,Haas Ferrari,1:22.248,2021,Italy,Sprint-Grid,MSC
+19,88,Robert Kubica,Alfa Romeo Racing Ferrari,1:22.530,2021,Italy,Sprint-Grid,KUB
+20,9,Nikita Mazepin,Haas Ferrari,1:22.716,2021,Italy,Sprint-Grid,MAZ
+1,33,Max Verstappen,Red Bull Racing Honda,1:08.372,2021,Brazil,Sprint-Grid,VER
+2,77,Valtteri Bottas,Mercedes,1:08.469,2021,Brazil,Sprint-Grid,BOT
+3,11,Sergio Perez,Red Bull Racing Honda,1:08.483,2021,Brazil,Sprint-Grid,PER
+4,10,Pierre Gasly,AlphaTauri Honda,1:08.777,2021,Brazil,Sprint-Grid,GAS
+5,55,Carlos Sainz,Ferrari,1:08.826,2021,Brazil,Sprint-Grid,SAI
+6,16,Charles Leclerc,Ferrari,1:08.960,2021,Brazil,Sprint-Grid,LEC
+7,4,Lando Norris,McLaren Mercedes,1:08.980,2021,Brazil,Sprint-Grid,NOR
+8,3,Daniel Ricciardo,McLaren Mercedes,1:09.039,2021,Brazil,Sprint-Grid,RIC
+9,14,Fernando Alonso,Alpine Renault,1:09.113,2021,Brazil,Sprint-Grid,ALO
+10,31,Esteban Ocon,Alpine Renault,1:09.189,2021,Brazil,Sprint-Grid,OCO
+11,5,Sebastian Vettel,Aston Martin Mercedes,1:09.399,2021,Brazil,Sprint-Grid,VET
+12,22,Yuki Tsunoda,AlphaTauri Honda,1:09.483,2021,Brazil,Sprint-Grid,TSU
+13,7,Kimi Räikkönen,Alfa Romeo Racing Ferrari,1:09.503,2021,Brazil,Sprint-Grid,RAI
+14,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,1:10.227,2021,Brazil,Sprint-Grid,GIO
+15,18,Lance Stroll,Aston Martin Mercedes,1:09.663,2021,Brazil,Sprint-Grid,STR
+16,6,Nicholas Latifi,Williams Mercedes,1:09.897,2021,Brazil,Sprint-Grid,LAT
+17,63,George Russell,Williams Mercedes,1:09.953,2021,Brazil,Sprint-Grid,RUS
+18,47,Mick Schumacher,Haas Ferrari,1:10.329,2021,Brazil,Sprint-Grid,MSC
+19,9,Nikita Mazepin,Haas Ferrari,1:10.589,2021,Brazil,Sprint-Grid,MAZ
+20,44,Lewis Hamilton,Mercedes,,2021,Brazil,Sprint-Grid,HAM
+1,1,Max Verstappen,Red Bull Racing RBPT,1:27.999,2022,Emilia Romagna,Sprint-Grid,VER
+2,16,Charles Leclerc,Ferrari,1:28.778,2022,Emilia Romagna,Sprint-Grid,LEC
+3,4,Lando Norris,McLaren Mercedes,1:29.131,2022,Emilia Romagna,Sprint-Grid,NOR
+4,20,Kevin Magnussen,Haas Ferrari,1:29.164,2022,Emilia Romagna,Sprint-Grid,MAG
+5,14,Fernando Alonso,Alpine Renault,1:29.202,2022,Emilia Romagna,Sprint-Grid,ALO
+6,3,Daniel Ricciardo,McLaren Mercedes,1:29.742,2022,Emilia Romagna,Sprint-Grid,RIC
+7,11,Sergio Perez,Red Bull Racing RBPT,1:29.808,2022,Emilia Romagna,Sprint-Grid,PER
+8,77,Valtteri Bottas,Alfa Romeo Ferrari,1:30.439,2022,Emilia Romagna,Sprint-Grid,BOT
+9,5,Sebastian Vettel,Aston Martin Aramco Mercedes,1:31.062,2022,Emilia Romagna,Sprint-Grid,VET
+10,55,Carlos Sainz,Ferrari,,2022,Emilia Romagna,Sprint-Grid,SAI
+11,63,George Russell,Mercedes,1:20.757,2022,Emilia Romagna,Sprint-Grid,RUS
+12,47,Mick Schumacher,Haas Ferrari,1:20.916,2022,Emilia Romagna,Sprint-Grid,MSC
+13,44,Lewis Hamilton,Mercedes,1:21.138,2022,Emilia Romagna,Sprint-Grid,HAM
+14,24,Zhou Guanyu,Alfa Romeo Ferrari,1:21.434,2022,Emilia Romagna,Sprint-Grid,ZHO
+15,18,Lance Stroll,Aston Martin Aramco Mercedes,1:28.119,2022,Emilia Romagna,Sprint-Grid,STR
+16,22,Yuki Tsunoda,AlphaTauri RBPT,1:20.474,2022,Emilia Romagna,Sprint-Grid,TSU
+17,10,Pierre Gasly,AlphaTauri RBPT,1:20.732,2022,Emilia Romagna,Sprint-Grid,GAS
+18,6,Nicholas Latifi,Williams Mercedes,1:21.971,2022,Emilia Romagna,Sprint-Grid,LAT
+19,31,Esteban Ocon,Alpine Renault,1:22.338,2022,Emilia Romagna,Sprint-Grid,OCO
+20,23,Alexander Albon,Williams Mercedes,,2022,Emilia Romagna,Sprint-Grid,ALB
+1,1,Max Verstappen,Red Bull Racing RBPT,1:04.984,2022,Austria,Sprint-Grid,VER
+2,16,Charles Leclerc,Ferrari,1:05.013,2022,Austria,Sprint-Grid,LEC
+3,55,Carlos Sainz,Ferrari,1:05.066,2022,Austria,Sprint-Grid,SAI
+4,63,George Russell,Mercedes,1:05.431,2022,Austria,Sprint-Grid,RUS
+5,31,Esteban Ocon,Alpine Renault,1:05.726,2022,Austria,Sprint-Grid,OCO
+6,20,Kevin Magnussen,Haas Ferrari,1:05.879,2022,Austria,Sprint-Grid,MAG
+7,47,Mick Schumacher,Haas Ferrari,1:06.011,2022,Austria,Sprint-Grid,MSC
+8,14,Fernando Alonso,Alpine Renault,1:06.103,2022,Austria,Sprint-Grid,ALO
+9,44,Lewis Hamilton,Mercedes,1:13.151,2022,Austria,Sprint-Grid,HAM
+10,10,Pierre Gasly,AlphaTauri RBPT,1:06.160,2022,Austria,Sprint-Grid,GAS
+11,23,Alexander Albon,Williams Mercedes,1:06.230,2022,Austria,Sprint-Grid,ALB
+12,77,Valtteri Bottas,Alfa Romeo Ferrari,1:06.319,2022,Austria,Sprint-Grid,BOT
+13,11,Sergio Perez,Red Bull Racing RBPT,1:06.458,2022,Austria,Sprint-Grid,PER
+14,22,Yuki Tsunoda,AlphaTauri RBPT,1:06.851,2022,Austria,Sprint-Grid,TSU
+15,4,Lando Norris,McLaren Mercedes,1:25.847,2022,Austria,Sprint-Grid,NOR
+16,3,Daniel Ricciardo,McLaren Mercedes,1:06.613,2022,Austria,Sprint-Grid,RIC
+17,18,Lance Stroll,Aston Martin Aramco Mercedes,1:06.847,2022,Austria,Sprint-Grid,STR
+18,24,Zhou Guanyu,Alfa Romeo Ferrari,1:06.901,2022,Austria,Sprint-Grid,ZHO
+19,6,Nicholas Latifi,Williams Mercedes,1:07.003,2022,Austria,Sprint-Grid,LAT
+20,5,Sebastian Vettel,Aston Martin Aramco Mercedes,1:07.083,2022,Austria,Sprint-Grid,VET
