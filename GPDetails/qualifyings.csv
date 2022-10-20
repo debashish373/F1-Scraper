@@ -16756,6 +16756,26 @@ McLaren Mercedes,Qualifying,Daniel Ricciardo,RIC,Netherlands,8.0,3,17,1:12.081,,
 Haas Ferrari,Qualifying,Kevin Magnussen,MAG,Netherlands,9.0,20,18,1:12.319,,,,2022
 Aston Martin Aramco Mercedes,Qualifying,Sebastian Vettel,VET,Netherlands,8.0,5,19,1:12.391,,,,2022
 Williams Mercedes,Qualifying,Nicholas Latifi,LAT,Netherlands,5.0,6,20,1:13.353,,,,2022
+Ferrari,Qualifying,Charles Leclerc,LEC,Italy,14.0,16,1,1:21.280,1:21.208,1:20.161,,2022
+Red Bull Racing RBPT,Qualifying,Max Verstappen,VER,Italy,16.0,1,2,1:20.922,1:21.265,1:20.306,,2022
+Ferrari,Qualifying,Carlos Sainz,SAI,Italy,13.0,55,3,1:21.348,1:20.878,1:20.429,,2022
+Red Bull Racing RBPT,Qualifying,Sergio Perez,PER,Italy,15.0,11,4,1:21.495,1:21.358,1:21.206,,2022
+Mercedes,Qualifying,Lewis Hamilton,HAM,Italy,17.0,44,5,1:22.048,1:21.708,1:21.524,,2022
+Mercedes,Qualifying,George Russell,RUS,Italy,17.0,63,6,1:21.785,1:21.747,1:21.542,,2022
+McLaren Mercedes,Qualifying,Lando Norris,NOR,Italy,19.0,4,7,1:22.130,1:21.831,1:21.584,,2022
+McLaren Mercedes,Qualifying,Daniel Ricciardo,RIC,Italy,20.0,3,8,1:22.139,1:21.855,1:21.925,,2022
+AlphaTauri RBPT,Qualifying,Pierre Gasly,GAS,Italy,18.0,10,9,1:22.010,1:22.062,1:22.648,,2022
+Alpine Renault,Qualifying,Fernando Alonso,ALO,Italy,17.0,14,10,1:22.089,1:21.861,,,2022
+Alpine Renault,Qualifying,Esteban Ocon,OCO,Italy,12.0,31,11,1:22.166,1:22.130,,,2022
+Alfa Romeo Ferrari,Qualifying,Valtteri Bottas,BOT,Italy,12.0,77,12,1:22.254,1:22.235,,,2022
+Williams Mercedes,Qualifying,Nyck De Vries,DEV,Italy,13.0,45,13,1:22.567,1:22.471,,,2022
+Alfa Romeo Ferrari,Qualifying,Zhou Guanyu,ZHO,Italy,12.0,24,14,1:22.003,1:22.577,,,2022
+AlphaTauri RBPT,Qualifying,Yuki Tsunoda,TSU,Italy,6.0,22,15,1:22.020,,,,2022
+Williams Mercedes,Qualifying,Nicholas Latifi,LAT,Italy,7.0,6,16,1:22.587,,,,2022
+Aston Martin Aramco Mercedes,Qualifying,Sebastian Vettel,VET,Italy,7.0,5,17,1:22.636,,,,2022
+Aston Martin Aramco Mercedes,Qualifying,Lance Stroll,STR,Italy,9.0,18,18,1:22.748,,,,2022
+Haas Ferrari,Qualifying,Kevin Magnussen,MAG,Italy,10.0,20,19,1:22.908,,,,2022
+Haas Ferrari,Qualifying,Mick Schumacher,MSC,Italy,9.0,47,20,1:23.005,,,,2022
 Ferrari,Qualifying,Charles Leclerc,LEC,Bahrain,15.0,16,1,1:31.471,1:30.932,1:30.558,,2022
 Red Bull Racing RBPT,Qualifying,Max Verstappen,VER,Bahrain,14.0,1,2,1:31.785,1:30.757,1:30.681,,2022
 Ferrari,Qualifying,Carlos Sainz,SAI,Bahrain,15.0,55,3,1:31.567,1:30.787,1:30.687,,2022
@@ -17015,3 +17035,43 @@ Aston Martin Aramco Mercedes,Qualifying,Sebastian Vettel,VET,Italy,7.0,5,17,1:22
 Aston Martin Aramco Mercedes,Qualifying,Lance Stroll,STR,Italy,9.0,18,18,1:22.748,,,,2022
 Haas Ferrari,Qualifying,Kevin Magnussen,MAG,Italy,10.0,20,19,1:22.908,,,,2022
 Haas Ferrari,Qualifying,Mick Schumacher,MSC,Italy,9.0,47,20,1:23.005,,,,2022
+Ferrari,Qualifying,Charles Leclerc,LEC,Singapore,20.0,16,1,1:54.129,1:52.343,1:49.412,,2022
+Red Bull Racing RBPT,Qualifying,Sergio Perez,PER,Singapore,20.0,11,2,1:54.404,1:52.818,1:49.434,,2022
+Mercedes,Qualifying,Lewis Hamilton,HAM,Singapore,24.0,44,3,1:53.161,1:52.691,1:49.466,,2022
+Ferrari,Qualifying,Carlos Sainz,SAI,Singapore,22.0,55,4,1:54.559,1:53.219,1:49.583,,2022
+Alpine Renault,Qualifying,Fernando Alonso,ALO,Singapore,23.0,14,5,1:55.360,1:53.127,1:49.966,,2022
+McLaren Mercedes,Qualifying,Lando Norris,NOR,Singapore,24.0,4,6,1:55.914,1:53.942,1:50.584,,2022
+AlphaTauri RBPT,Qualifying,Pierre Gasly,GAS,Singapore,24.0,10,7,1:55.606,1:53.546,1:51.211,,2022
+Red Bull Racing RBPT,Qualifying,Max Verstappen,VER,Singapore,20.0,1,8,1:53.057,1:52.723,1:51.395,,2022
+Haas Ferrari,Qualifying,Kevin Magnussen,MAG,Singapore,23.0,20,9,1:55.103,1:54.006,1:51.573,,2022
+AlphaTauri RBPT,Qualifying,Yuki Tsunoda,TSU,Singapore,23.0,22,10,1:55.314,1:53.848,1:51.983,,2022
+Mercedes,Qualifying,George Russell,RUS,Singapore,17.0,63,11,1:54.633,1:54.012,,,2022
+Aston Martin Aramco Mercedes,Qualifying,Lance Stroll,STR,Singapore,15.0,18,12,1:55.629,1:54.211,,,2022
+Haas Ferrari,Qualifying,Mick Schumacher,MSC,Singapore,16.0,47,13,1:55.736,1:54.370,,,2022
+Aston Martin Aramco Mercedes,Qualifying,Sebastian Vettel,VET,Singapore,15.0,5,14,1:55.602,1:54.380,,,2022
+Alfa Romeo Ferrari,Qualifying,Zhou Guanyu,ZHO,Singapore,14.0,24,15,1:55.375,1:55.518,,,2022
+Alfa Romeo Ferrari,Qualifying,Valtteri Bottas,BOT,Singapore,7.0,77,16,1:56.083,,,,2022
+McLaren Mercedes,Qualifying,Daniel Ricciardo,RIC,Singapore,9.0,3,17,1:56.226,,,,2022
+Alpine Renault,Qualifying,Esteban Ocon,OCO,Singapore,9.0,31,18,1:56.337,,,,2022
+Williams Mercedes,Qualifying,Alexander Albon,ALB,Singapore,7.0,23,19,1:56.985,,,,2022
+Williams Mercedes,Qualifying,Nicholas Latifi,LAT,Singapore,8.0,6,20,1:57.532,,,,2022
+Red Bull Racing RBPT,Qualifying,Max Verstappen,VER,Japan,13.0,1,1,1:30.224,1:30.346,1:29.304,,2022
+Ferrari,Qualifying,Charles Leclerc,LEC,Japan,13.0,16,2,1:30.402,1:30.486,1:29.314,,2022
+Ferrari,Qualifying,Carlos Sainz,SAI,Japan,13.0,55,3,1:30.336,1:30.444,1:29.361,,2022
+Red Bull Racing RBPT,Qualifying,Sergio Perez,PER,Japan,15.0,11,4,1:30.622,1:29.925,1:29.709,,2022
+Alpine Renault,Qualifying,Esteban Ocon,OCO,Japan,18.0,31,5,1:30.696,1:30.357,1:30.165,,2022
+Mercedes,Qualifying,Lewis Hamilton,HAM,Japan,20.0,44,6,1:30.906,1:30.443,1:30.261,,2022
+Alpine Renault,Qualifying,Fernando Alonso,ALO,Japan,15.0,14,7,1:30.603,1:30.343,1:30.322,,2022
+Mercedes,Qualifying,George Russell,RUS,Japan,19.0,63,8,1:30.865,1:30.465,1:30.389,,2022
+Aston Martin Aramco Mercedes,Qualifying,Sebastian Vettel,VET,Japan,15.0,5,9,1:31.256,1:30.656,1:30.554,,2022
+McLaren Mercedes,Qualifying,Lando Norris,NOR,Japan,18.0,4,10,1:30.881,1:30.473,1:31.003,,2022
+McLaren Mercedes,Qualifying,Daniel Ricciardo,RIC,Japan,11.0,3,11,1:30.880,1:30.659,,,2022
+Alfa Romeo Ferrari,Qualifying,Valtteri Bottas,BOT,Japan,12.0,77,12,1:31.226,1:30.709,,,2022
+AlphaTauri RBPT,Qualifying,Yuki Tsunoda,TSU,Japan,15.0,22,13,1:31.130,1:30.808,,,2022
+Alfa Romeo Ferrari,Qualifying,Zhou Guanyu,ZHO,Japan,12.0,24,14,1:30.894,1:30.953,,,2022
+Haas Ferrari,Qualifying,Mick Schumacher,MSC,Japan,12.0,47,15,1:31.152,1:31.439,,,2022
+Williams Mercedes,Qualifying,Alexander Albon,ALB,Japan,6.0,23,16,1:31.311,,,,2022
+AlphaTauri RBPT,Qualifying,Pierre Gasly,GAS,Japan,9.0,10,17,1:31.322,,,,2022
+Haas Ferrari,Qualifying,Kevin Magnussen,MAG,Japan,6.0,20,18,1:31.352,,,,2022
+Aston Martin Aramco Mercedes,Qualifying,Lance Stroll,STR,Japan,6.0,18,19,1:31.419,,,,2022
+Williams Mercedes,Qualifying,Nicholas Latifi,LAT,Japan,8.0,6,20,1:31.511,,,,2022

@@ -15325,94 +15325,24 @@ Avg Speed,Car,Detail,Driver,DriverCode,Grand Prix,Lap,No,Pos,Time,Time of day,Ye
 187.804,Alpine Renault,Fastest-Laps,Fernando Alonso,ALO,Hungary,47.0,14,18,1:23.979,16:11:06,2022
 187.752,Alfa Romeo Ferrari,Fastest-Laps,Valtteri Bottas,BOT,Hungary,60.0,77,19,1:24.002,16:29:36,2022
 187.424,Alpine Renault,Fastest-Laps,Esteban Ocon,OCO,Hungary,60.0,31,20,1:24.149,16:29:29,2022
-203.50099999999998,Ferrari,Fastest-Laps,Carlos Sainz,SAI,Bahrain,52.0,55,3,1:35.740,19:33:13,2022
-202.46900000000002,Mercedes,Fastest-Laps,Lewis Hamilton,HAM,Bahrain,53.0,44,5,1:36.228,19:34:51,2022
-201.69099999999997,Alfa Romeo Ferrari,Fastest-Laps,Valtteri Bottas,BOT,Bahrain,53.0,77,7,1:36.599,19:34:55,2022
-200.94799999999998,Haas Ferrari,Fastest-Laps,Mick Schumacher,MSC,Bahrain,37.0,47,11,1:36.956,19:06:35,2022
-200.31799999999998,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,Bahrain,50.0,3,16,1:37.261,19:30:34,2022
-200.18900000000002,AlphaTauri RBPT,Fastest-Laps,Pierre Gasly,GAS,Bahrain,34.0,10,17,1:37.324,19:01:03,2022
-198.40099999999998,Aston Martin Aramco Mercedes,Fastest-Laps,Nico Hulkenberg,HUL,Bahrain,49.0,27,19,1:38.201,19:29:00,2022
-242.55599999999998,Ferrari,Fastest-Laps,Charles Leclerc,LEC,Saudi Arabia,48.0,16,1,1:31.634,21:24:43,2022
-242.19099999999997,Red Bull Racing RBPT,Fastest-Laps,Max Verstappen,VER,Saudi Arabia,50.0,1,2,1:31.772,21:27:46,2022
-241.84099999999998,Ferrari,Fastest-Laps,Carlos Sainz,SAI,Saudi Arabia,48.0,55,3,1:31.905,21:24:50,2022
-239.62900000000002,McLaren Mercedes,Fastest-Laps,Lando Norris,NOR,Saudi Arabia,46.0,4,5,1:32.753,21:22:26,2022
-239.00099999999998,Mercedes,Fastest-Laps,Lewis Hamilton,HAM,Saudi Arabia,47.0,44,8,1:32.997,21:24:16,2022
-236.87599999999998,Alpine Renault,Fastest-Laps,Fernando Alonso,ALO,Saudi Arabia,33.0,14,12,1:33.831,21:00:34,2022
-233.15200000000002,Mercedes,Fastest-Laps,George Russell,RUS,Australia,53.0,63,4,1:21.495,16:24:35,2022
-232.63299999999998,Red Bull Racing RBPT,Fastest-Laps,Max Verstappen,VER,Australia,37.0,1,6,1:21.677,16:01:55,2022
-232.03900000000002,Mercedes,Fastest-Laps,Lewis Hamilton,HAM,Australia,51.0,44,7,1:21.886,16:21:52,2022
-230.19799999999998,Alfa Romeo Ferrari,Fastest-Laps,Zhou Guanyu,ZHO,Australia,55.0,24,11,1:22.541,16:28:09,2022
-230.06400000000002,Williams Mercedes,Fastest-Laps,Alexander Albon,ALB,Australia,54.0,23,12,1:22.589,16:26:27,2022
-225.28099999999998,Red Bull Racing RBPT,Fastest-Laps,Max Verstappen,VER,Emilia Romagna,55.0,1,1,1:18.446,16:24:32,2022
-224.91400000000002,Ferrari,Fastest-Laps,Charles Leclerc,LEC,Emilia Romagna,63.0,16,2,1:18.574,16:36:07,2022
-218.43900000000002,McLaren Mercedes,Fastest-Laps,Lando Norris,NOR,Emilia Romagna,61.0,4,7,1:20.903,16:33:03,2022
-217.53799999999998,Haas Ferrari,Fastest-Laps,Kevin Magnussen,MAG,Emilia Romagna,61.0,20,10,1:21.238,16:33:43,2022
-216.63400000000001,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,Emilia Romagna,61.0,3,14,1:21.577,16:34:47,2022
-215.81400000000002,Alpine Renault,Fastest-Laps,Esteban Ocon,OCO,Emilia Romagna,37.0,31,18,1:21.887,16:01:09,2022
-212.25799999999998,Ferrari,Fastest-Laps,Carlos Sainz,SAI,Miami,56.0,55,3,1:31.790,17:06:15,2022
-212.19099999999997,Red Bull Racing RBPT,Fastest-Laps,Sergio Perez,PER,Miami,54.0,11,4,1:31.819,17:03:13,2022
-209.62900000000002,Mercedes,Fastest-Laps,Lewis Hamilton,HAM,Miami,55.0,44,7,1:32.941,17:04:54,2022
-208.90099999999998,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,Miami,56.0,3,11,1:33.265,17:06:42,2022
-200.09900000000002,Red Bull Racing RBPT,Fastest-Laps,Sergio Perez,PER,Spain,55.0,11,1,1:24.108,16:25:00,2022
-196.94299999999998,Red Bull Racing RBPT,Fastest-Laps,Max Verstappen,VER,Spain,46.0,1,4,1:25.456,16:11:38,2022
-196.56799999999998,McLaren Mercedes,Fastest-Laps,Lando Norris,NOR,Spain,53.0,4,5,1:25.619,16:23:01,2022
-194.80200000000002,Alfa Romeo Ferrari,Fastest-Laps,Valtteri Bottas,BOT,Spain,36.0,77,8,1:26.395,15:57:19,2022
-194.34400000000002,Alpine Renault,Fastest-Laps,Fernando Alonso,ALO,Spain,56.0,14,9,1:26.599,16:27:33,2022
-193.72400000000002,Aston Martin Aramco Mercedes,Fastest-Laps,Lance Stroll,STR,Spain,54.0,18,11,1:26.876,16:25:24,2022
-193.38099999999997,Ferrari,Fastest-Laps,Charles Leclerc,LEC,Spain,25.0,16,13,1:27.030,15:40:18,2022
-192.90200000000002,Williams Mercedes,Fastest-Laps,Nicholas Latifi,LAT,Spain,52.0,6,14,1:27.246,16:22:48,2022
-192.81599999999997,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,Spain,54.0,3,15,1:27.285,16:24:57,2022
-203.77900000000002,Red Bull Racing RBPT,Fastest-Laps,Max Verstappen,VER,Azerbaijan,50.0,1,2,1:46.050,16:36:14,2022
-200.16299999999998,Williams Mercedes,Fastest-Laps,Alexander Albon,ALB,Azerbaijan,48.0,23,7,1:47.966,16:34:33,2022
-200.02900000000002,Aston Martin Aramco Mercedes,Fastest-Laps,Lance Stroll,STR,Azerbaijan,38.0,18,10,1:48.038,16:16:33,2022
-199.71900000000002,Aston Martin Aramco Mercedes,Fastest-Laps,Sebastian Vettel,VET,Azerbaijan,41.0,5,12,1:48.206,16:21:19,2022
-207.25799999999998,Ferrari,Fastest-Laps,Carlos Sainz,SAI,Canada,63.0,55,1,1:15.749,15:30:43,2022
-205.44299999999998,Mercedes,Fastest-Laps,George Russell,RUS,Canada,63.0,63,5,1:16.418,15:30:51,2022
-233.21200000000002,Red Bull Racing RBPT,Fastest-Laps,Sergio Perez,PER,Great Britain,47.0,11,3,1:30.937,17:13:33,2022
-231.50099999999998,Alpine Renault,Fastest-Laps,Fernando Alonso,ALO,Great Britain,47.0,14,5,1:31.609,17:13:35,2022
-229.63299999999998,Red Bull Racing RBPT,Fastest-Laps,Max Verstappen,VER,Great Britain,44.0,1,8,1:32.354,17:09:02,2022
-228.91400000000002,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,Great Britain,34.0,3,11,1:32.644,16:51:26,2022
-222.99599999999998,Alfa Romeo Ferrari,Fastest-Laps,Valtteri Bottas,BOT,Great Britain,19.0,77,17,1:35.103,16:26:59,2022
-225.28599999999997,Mercedes,Fastest-Laps,Lewis Hamilton,HAM,Austria,63.0,44,5,1:09.000,16:19:02,2022
-216.37099999999998,Red Bull Racing RBPT,Fastest-Laps,Sergio Perez,PER,Austria,5.0,11,20,1:11.843,15:10:13,2022
-215.72400000000002,Red Bull Racing RBPT,Fastest-Laps,Max Verstappen,VER,France,30.0,1,2,1:37.491,15:55:33,2022
-215.59799999999998,Mercedes,Fastest-Laps,George Russell,RUS,France,51.0,63,3,1:37.548,16:30:42,2022
-215.08599999999998,Red Bull Racing RBPT,Fastest-Laps,Sergio Perez,PER,France,45.0,11,5,1:37.780,16:20:19,2022
-214.41099999999997,Ferrari,Fastest-Laps,Charles Leclerc,LEC,France,4.0,16,7,1:38.088,15:10:18,2022
-214.25400000000002,Alpine Renault,Fastest-Laps,Fernando Alonso,ALO,France,53.0,14,8,1:38.160,16:34:25,2022
-213.11599999999999,Alpine Renault,Fastest-Laps,Esteban Ocon,OCO,France,53.0,31,9,1:38.684,16:34:39,2022
-212.34099999999998,Aston Martin Aramco Mercedes,Fastest-Laps,Sebastian Vettel,VET,France,43.0,5,12,1:39.044,16:17:38,2022
-212.15099999999998,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,France,27.0,3,14,1:39.133,15:50:57,2022
-192.33599999999998,Ferrari,Fastest-Laps,Carlos Sainz,SAI,Hungary,51.0,55,4,1:22.000,16:15:54,2022
-191.22099999999998,Williams Mercedes,Fastest-Laps,Nicholas Latifi,LAT,Hungary,60.0,6,8,1:22.478,16:30:47,2022
-190.55599999999998,Mercedes,Fastest-Laps,George Russell,RUS,Hungary,57.0,63,9,1:22.766,16:24:09,2022
-189.91099999999997,Williams Mercedes,Fastest-Laps,Alexander Albon,ALB,Hungary,43.0,23,12,1:23.047,16:06:22,2022
-189.56400000000002,AlphaTauri RBPT,Fastest-Laps,Pierre Gasly,GAS,Hungary,58.0,10,14,1:23.199,16:27:03,2022
 230.575,Red Bull Racing RBPT,Fastest-Laps,Max Verstappen,VER,Belgium,32.0,1,1,1:49.354,16:07:14,2022
 229.255,Ferrari,Fastest-Laps,Charles Leclerc,LEC,Belgium,44.0,16,2,1:49.984,16:30:47,2022
 227.64,Red Bull Racing RBPT,Fastest-Laps,Sergio Perez,PER,Belgium,29.0,11,3,1:50.764,16:01:51,2022
 227.581,Mercedes,Fastest-Laps,George Russell,RUS,Belgium,31.0,63,4,1:50.793,16:05:48,2022
-225.77700000000002,McLaren Mercedes,Fastest-Laps,Lando Norris,NOR,Belgium,31.0,4,5,1:51.678,16:06:37,2022
-225.69799999999998,Alpine Renault,Fastest-Laps,Esteban Ocon,OCO,Belgium,36.0,31,6,1:51.717,16:15:50,2022
+225.777,McLaren Mercedes,Fastest-Laps,Lando Norris,NOR,Belgium,31.0,4,5,1:51.678,16:06:37,2022
+225.698,Alpine Renault,Fastest-Laps,Esteban Ocon,OCO,Belgium,36.0,31,6,1:51.717,16:15:50,2022
 225.174,Ferrari,Fastest-Laps,Carlos Sainz,SAI,Belgium,32.0,55,7,1:51.977,16:07:34,2022
 224.615,Williams Mercedes,Fastest-Laps,Nicholas Latifi,LAT,Belgium,38.0,6,8,1:52.256,16:20:24,2022
 224.493,Alfa Romeo Ferrari,Fastest-Laps,Zhou Guanyu,ZHO,Belgium,30.0,24,9,1:52.317,16:04:45,2022
 224.255,AlphaTauri RBPT,Fastest-Laps,Yuki Tsunoda,TSU,Belgium,32.0,22,10,1:52.436,16:08:35,2022
-224.09799999999998,Aston Martin Aramco Mercedes,Fastest-Laps,Sebastian Vettel,VET,Belgium,40.0,5,11,1:52.515,16:23:23,2022
-223.83700000000002,Haas Ferrari,Fastest-Laps,Mick Schumacher,MSC,Belgium,35.0,47,12,1:52.646,16:14:30,2022
-223.39700000000002,Alpine Renault,Fastest-Laps,Fernando Alonso,ALO,Belgium,35.0,14,13,1:52.868,16:13:50,2022
-223.373,Aston Martin Aramco Mercedes,Fastest-Laps,Lance Stroll,STR,Belgium,29.0,18,14,1:52.880,16:02:47,2022
-223.132,AlphaTauri RBPT,Fastest-Laps,Pierre Gasly,GAS,Belgium,24.0,10,15,1:53.002,15:53:09,2022
-223.02700000000002,Williams Mercedes,Fastest-Laps,Alexander Albon,ALB,Belgium,28.0,23,16,1:53.055,16:00:51,2022
-222.97799999999998,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,Belgium,34.0,3,17,1:53.080,16:12:21,2022
-222.482,Haas Ferrari,Fastest-Laps,Kevin Magnussen,MAG,Belgium,29.0,20,18,1:53.332,16:02:57,2022
-225.777,McLaren Mercedes,Fastest-Laps,Lando Norris,NOR,Belgium,31.0,4,5,1:51.678,16:06:37,2022
-225.698,Alpine Renault,Fastest-Laps,Esteban Ocon,OCO,Belgium,36.0,31,6,1:51.717,16:15:50,2022
 224.098,Aston Martin Aramco Mercedes,Fastest-Laps,Sebastian Vettel,VET,Belgium,40.0,5,11,1:52.515,16:23:23,2022
 223.837,Haas Ferrari,Fastest-Laps,Mick Schumacher,MSC,Belgium,35.0,47,12,1:52.646,16:14:30,2022
 223.397,Alpine Renault,Fastest-Laps,Fernando Alonso,ALO,Belgium,35.0,14,13,1:52.868,16:13:50,2022
+223.373,Aston Martin Aramco Mercedes,Fastest-Laps,Lance Stroll,STR,Belgium,29.0,18,14,1:52.880,16:02:47,2022
+223.132,AlphaTauri RBPT,Fastest-Laps,Pierre Gasly,GAS,Belgium,24.0,10,15,1:53.002,15:53:09,2022
 223.027,Williams Mercedes,Fastest-Laps,Alexander Albon,ALB,Belgium,28.0,23,16,1:53.055,16:00:51,2022
 222.978,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,Belgium,34.0,3,17,1:53.080,16:12:21,2022
+222.482,Haas Ferrari,Fastest-Laps,Kevin Magnussen,MAG,Belgium,29.0,20,18,1:53.332,16:02:57,2022
 208.173,Red Bull Racing RBPT,Fastest-Laps,Max Verstappen,VER,Netherlands,62.0,1,1,1:13.652,16:27:18,2022
 208.11900000000003,Mercedes,Fastest-Laps,George Russell,RUS,Netherlands,72.0,63,2,1:13.671,16:39:43,2022
 207.604,Mercedes,Fastest-Laps,Lewis Hamilton,HAM,Netherlands,54.0,44,3,1:13.854,16:13:20,2022
@@ -15435,30 +15365,72 @@ Avg Speed,Car,Detail,Driver,DriverCode,Grand Prix,Lap,No,Pos,Time,Time of day,Ye
 198.765,AlphaTauri RBPT,Fastest-Laps,Yuki Tsunoda,TSU,Netherlands,16.0,22,20,1:17.138,15:24:18,2022
 157.55200000000002,Ferrari,Fastest-Laps,Charles Leclerc,LEC,Monaco,46.0,16,6,1:16.249,17:38:11,2022
 154.86700000000002,Alpine Renault,Fastest-Laps,Esteban Ocon,OCO,Monaco,50.0,31,13,1:17.571,17:44:08,2022
-206.06900000000002,Red Bull Racing RBPT,Fastest-Laps,Sergio Perez,PER,Netherlands,63.0,11,5,1:14.404,16:28:38,2022
-205.40900000000002,Ferrari,Fastest-Laps,Carlos Sainz,SAI,Netherlands,63.0,55,7,1:14.643,16:28:38,2022
-204.31400000000002,Aston Martin Aramco Mercedes,Fastest-Laps,Lance Stroll,STR,Netherlands,65.0,18,10,1:15.043,16:31:12,2022
-203.43099999999998,Haas Ferrari,Fastest-Laps,Kevin Magnussen,MAG,Netherlands,53.0,20,14,1:15.369,16:13:50,2022
-202.87099999999998,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,Netherlands,52.0,3,16,1:15.577,16:12:36,2022
-201.90099999999998,Alfa Romeo Ferrari,Fastest-Laps,Zhou Guanyu,ZHO,Netherlands,63.0,24,17,1:15.940,16:28:48,2022
-199.52599999999998,Alfa Romeo Ferrari,Fastest-Laps,Valtteri Bottas,BOT,Netherlands,51.0,77,19,1:16.844,16:11:00,2022
-248.18200000000002,Red Bull Racing RBPT,Fastest-Laps,Sergio Perez,PER,Italy,46.0,11,1,1:24.030,16:11:02,2022
+248.182,Red Bull Racing RBPT,Fastest-Laps,Sergio Perez,PER,Italy,46.0,11,1,1:24.030,16:11:02,2022
 247.282,Ferrari,Fastest-Laps,Charles Leclerc,LEC,Italy,38.0,16,2,1:24.336,15:58:50,2022
 246.995,Mercedes,Fastest-Laps,Lewis Hamilton,HAM,Italy,43.0,44,3,1:24.434,16:06:39,2022
 246.96,Ferrari,Fastest-Laps,Carlos Sainz,SAI,Italy,41.0,55,4,1:24.446,16:03:26,2022
 246.167,McLaren Mercedes,Fastest-Laps,Lando Norris,NOR,Italy,43.0,4,5,1:24.718,16:06:44,2022
 246.088,Red Bull Racing RBPT,Fastest-Laps,Max Verstappen,VER,Italy,38.0,1,6,1:24.745,15:58:31,2022
-244.52200000000002,Mercedes,Fastest-Laps,George Russell,RUS,Italy,40.0,63,7,1:25.288,16:01:47,2022
+244.522,Mercedes,Fastest-Laps,George Russell,RUS,Italy,40.0,63,7,1:25.288,16:01:47,2022
 244.493,Haas Ferrari,Fastest-Laps,Mick Schumacher,MSC,Italy,43.0,47,8,1:25.298,16:07:10,2022
 243.329,Alfa Romeo Ferrari,Fastest-Laps,Valtteri Bottas,BOT,Italy,45.0,77,9,1:25.706,16:10:04,2022
 241.484,Alfa Romeo Ferrari,Fastest-Laps,Zhou Guanyu,ZHO,Italy,41.0,24,10,1:26.361,16:04:05,2022
-240.83700000000002,Alpine Renault,Fastest-Laps,Esteban Ocon,OCO,Italy,37.0,31,11,1:26.593,15:58:21,2022
+240.837,Alpine Renault,Fastest-Laps,Esteban Ocon,OCO,Italy,37.0,31,11,1:26.593,15:58:21,2022
 240.80900000000003,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,Italy,39.0,3,12,1:26.603,16:01:08,2022
 240.75,Williams Mercedes,Fastest-Laps,Nyck De Vries,DEV,Italy,41.0,45,13,1:26.624,16:04:05,2022
 240.489,AlphaTauri RBPT,Fastest-Laps,Pierre Gasly,GAS,Italy,30.0,10,14,1:26.718,15:48:04,2022
 240.268,Williams Mercedes,Fastest-Laps,Nicholas Latifi,LAT,Italy,17.0,6,15,1:26.798,15:29:23,2022
 240.268,Haas Ferrari,Fastest-Laps,Kevin Magnussen,MAG,Italy,37.0,20,16,1:26.798,15:58:46,2022
 240.105,AlphaTauri RBPT,Fastest-Laps,Yuki Tsunoda,TSU,Italy,43.0,22,17,1:26.857,16:07:08,2022
-239.15200000000002,Alpine Renault,Fastest-Laps,Fernando Alonso,ALO,Italy,7.0,14,18,1:27.203,15:13:46,2022
+239.152,Alpine Renault,Fastest-Laps,Fernando Alonso,ALO,Italy,7.0,14,18,1:27.203,15:13:46,2022
 238.43,Aston Martin Aramco Mercedes,Fastest-Laps,Lance Stroll,STR,Italy,34.0,18,19,1:27.467,15:54:11,2022
-238.33700000000002,Aston Martin Aramco Mercedes,Fastest-Laps,Sebastian Vettel,VET,Italy,4.0,5,20,1:27.501,15:09:28,2022
+238.337,Aston Martin Aramco Mercedes,Fastest-Laps,Sebastian Vettel,VET,Italy,4.0,5,20,1:27.501,15:09:28,2022
+208.494,Williams Mercedes,Fastest-Laps,Alexander Albon,ALB,Miami,57.0,23,15,1:33.447,17:08:12,2022
+192.059,Aston Martin Aramco Mercedes,Fastest-Laps,Sebastian Vettel,VET,Spain,59.0,5,18,1:27.629,16:32:08,2022
+157.552,Ferrari,Fastest-Laps,Charles Leclerc,LEC,Monaco,46.0,16,6,1:16.249,17:38:11,2022
+154.867,Alpine Renault,Fastest-Laps,Esteban Ocon,OCO,Monaco,50.0,31,13,1:17.571,17:44:08,2022
+199.589,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,Azerbaijan,44.0,3,13,1:48.276,16:26:53,2022
+230.244,Haas Ferrari,Fastest-Laps,Mick Schumacher,MSC,Great Britain,48.0,47,7,1:32.109,17:15:13,2022
+227.339,Williams Mercedes,Fastest-Laps,Nicholas Latifi,LAT,Great Britain,48.0,6,13,1:33.286,17:15:20,2022
+222.309,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,Austria,61.0,3,13,1:09.924,16:17:17,2022
+211.869,Haas Ferrari,Fastest-Laps,Kevin Magnussen,MAG,France,11.0,20,17,1:39.265,15:22:45,2022
+208.119,Mercedes,Fastest-Laps,George Russell,RUS,Netherlands,72.0,63,2,1:13.671,16:39:43,2022
+240.809,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,Italy,39.0,3,12,1:26.603,16:01:08,2022
+171.211,Mercedes,Fastest-Laps,George Russell,RUS,Singapore,54.0,63,1,1:46.458,23:05:33,2022
+168.509,Red Bull Racing RBPT,Fastest-Laps,Sergio Perez,PER,Singapore,57.0,11,2,1:48.165,23:07:32,2022
+168.122,Ferrari,Fastest-Laps,Carlos Sainz,SAI,Singapore,59.0,55,3,1:48.414,23:11:26,2022
+167.598,Ferrari,Fastest-Laps,Charles Leclerc,LEC,Singapore,54.0,16,4,1:48.753,23:02:11,2022
+167.0,Red Bull Racing RBPT,Fastest-Laps,Max Verstappen,VER,Singapore,52.0,1,5,1:49.142,22:59:20,2022
+166.893,McLaren Mercedes,Fastest-Laps,Lando Norris,NOR,Singapore,56.0,4,6,1:49.212,23:06:07,2022
+165.272,Aston Martin Aramco Mercedes,Fastest-Laps,Lance Stroll,STR,Singapore,58.0,18,7,1:50.283,23:10:20,2022
+165.262,Haas Ferrari,Fastest-Laps,Mick Schumacher,MSC,Singapore,58.0,47,8,1:50.290,23:12:34,2022
+164.845,AlphaTauri RBPT,Fastest-Laps,Pierre Gasly,GAS,Singapore,56.0,10,9,1:50.569,23:06:50,2022
+164.766,Mercedes,Fastest-Laps,Lewis Hamilton,HAM,Singapore,58.0,44,10,1:50.622,23:10:27,2022
+164.696,Aston Martin Aramco Mercedes,Fastest-Laps,Sebastian Vettel,VET,Singapore,58.0,5,11,1:50.669,23:10:23,2022
+164.196,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,Singapore,57.0,3,12,1:51.006,23:08:25,2022
+162.937,Alfa Romeo Ferrari,Fastest-Laps,Valtteri Bottas,BOT,Singapore,52.0,77,13,1:51.864,22:59:29,2022
+162.641,Haas Ferrari,Fastest-Laps,Kevin Magnussen,MAG,Singapore,59.0,20,14,1:52.067,23:12:49,2022
+153.532,AlphaTauri RBPT,Fastest-Laps,Yuki Tsunoda,TSU,Singapore,32.0,22,15,1:58.716,22:18:12,2022
+151.306,Alpine Renault,Fastest-Laps,Fernando Alonso,ALO,Singapore,19.0,14,16,2:00.463,21:49:29,2022
+150.504,Alpine Renault,Fastest-Laps,Esteban Ocon,OCO,Singapore,24.0,31,17,2:01.105,22:00:47,2022
+149.251,Williams Mercedes,Fastest-Laps,Alexander Albon,ALB,Singapore,24.0,23,18,2:02.121,22:01:00,2022
+145.168,Alfa Romeo Ferrari,Fastest-Laps,Zhou Guanyu,ZHO,Singapore,5.0,24,19,2:05.556,21:19:49,2022
+145.135,Williams Mercedes,Fastest-Laps,Nicholas Latifi,LAT,Singapore,5.0,6,20,2:05.585,21:19:49,2022
+200.22,Alfa Romeo Ferrari,Fastest-Laps,Zhou Guanyu,ZHO,Japan,20.0,24,1,1:44.411,16:52:17,2022
+200.218,Alpine Renault,Fastest-Laps,Fernando Alonso,ALO,Japan,25.0,14,2,1:44.412,17:00:46,2022
+200.07,Ferrari,Fastest-Laps,Charles Leclerc,LEC,Japan,10.0,16,3,1:44.489,16:33:12,2022
+199.266,Red Bull Racing RBPT,Fastest-Laps,Max Verstappen,VER,Japan,10.0,1,4,1:44.911,16:33:08,2022
+198.709,Aston Martin Aramco Mercedes,Fastest-Laps,Lance Stroll,STR,Japan,21.0,18,5,1:45.205,16:53:56,2022
+198.366,AlphaTauri RBPT,Fastest-Laps,Pierre Gasly,GAS,Japan,22.0,10,6,1:45.387,16:55:53,2022
+198.097,Mercedes,Fastest-Laps,Lewis Hamilton,HAM,Japan,11.0,44,7,1:45.530,16:35:12,2022
+197.418,AlphaTauri RBPT,Fastest-Laps,Yuki Tsunoda,TSU,Japan,22.0,22,8,1:45.893,16:55:48,2022
+196.995,Red Bull Racing RBPT,Fastest-Laps,Sergio Perez,PER,Japan,11.0,11,9,1:46.120,16:35:06,2022
+196.21,Haas Ferrari,Fastest-Laps,Mick Schumacher,MSC,Japan,13.0,47,10,1:46.545,16:39:23,2022
+196.184,Alpine Renault,Fastest-Laps,Esteban Ocon,OCO,Japan,11.0,31,11,1:46.559,16:35:11,2022
+195.441,Aston Martin Aramco Mercedes,Fastest-Laps,Sebastian Vettel,VET,Japan,13.0,5,12,1:46.964,16:38:52,2022
+195.368,Mercedes,Fastest-Laps,George Russell,RUS,Japan,21.0,63,13,1:47.004,16:53:29,2022
+193.889,Alfa Romeo Ferrari,Fastest-Laps,Valtteri Bottas,BOT,Japan,11.0,77,14,1:47.820,16:35:30,2022
+193.848,McLaren Mercedes,Fastest-Laps,Daniel Ricciardo,RIC,Japan,11.0,3,15,1:47.843,16:35:28,2022
+193.437,Haas Ferrari,Fastest-Laps,Kevin Magnussen,MAG,Japan,10.0,20,16,1:48.072,16:33:41,2022
+193.253,McLaren Mercedes,Fastest-Laps,Lando Norris,NOR,Japan,8.0,4,17,1:48.175,16:29:54,2022
+192.904,Williams Mercedes,Fastest-Laps,Nicholas Latifi,LAT,Japan,12.0,6,18,1:48.371,16:37:09,2022

@@ -78,12 +78,11 @@ for i,year in enumerate(range(2022,dt.datetime.today().year+1,1)):
     else:
         cs=cs.append(temp).reset_index(drop=True)    
 
-pd.read_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\Summaries\F1\fastest_laps.csv').append(fl).drop_duplicates(subset=fl.columns.tolist()).to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\Summaries\F1\fastest_laps.csv',index=False)
-pd.read_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\Summaries\F1\race_summaries.csv').append(races).drop_duplicates(subset=races.columns.tolist()).to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\Summaries\F1\race_summaries.csv',index=False)
-pd.read_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\Summaries\F1\driver_standings.csv').append(ds).drop_duplicates(subset=ds.columns.tolist()).to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\Summaries\F1\driver_standings.csv',index=False)
-pd.read_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\Summaries\F1\constructor_standings.csv').append(cs).drop_duplicates(subset=cs.columns.tolist()).to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\Summaries\F1\constructor_standings.csv',index=False)
+pd.read_csv(r'Summaries\fastest_laps.csv').append(fl).drop_duplicates(subset=fl.columns.tolist()).to_csv(r'Summaries\fastest_laps.csv',index=False)
+pd.read_csv(r'Summaries\race_summaries.csv').append(races).drop_duplicates(subset=races.columns.tolist()).to_csv(r'Summaries\race_summaries.csv',index=False)
+pd.read_csv(r'Summaries\driver_standings.csv').append(ds).drop_duplicates(subset=ds.columns.tolist()).to_csv(r'Summaries\driver_standings.csv',index=False)
+pd.read_csv(r'Summaries\constructor_standings.csv').append(cs).drop_duplicates(subset=cs.columns.tolist()).to_csv(r'Summaries\constructor_standings.csv',index=False)
     
-
 #Detailed extracts
 ##########################################################################################################################
 
@@ -121,8 +120,8 @@ for i,year in enumerate(range(2022,dt.datetime.today().year+1,1)):
         else:
             team_details=team_details.append(temp).reset_index(drop=True)
 
-pd.read_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\Summaries\F1\team_details.csv').append(team_details).drop_duplicates(subset=team_details.columns.tolist()).to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\Summaries\F1\team_details.csv',index=False)
-pd.read_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\Summaries\F1\driver_details.csv').append(driver_details).drop_duplicates(subset=driver_details.columns.tolist()).to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\Summaries\F1\driver_details.csv',index=False)
+pd.read_csv(r'Summaries\team_details.csv').append(team_details).drop_duplicates(subset=team_details.columns.tolist()).to_csv(r'Summaries\team_details.csv',index=False)
+pd.read_csv(r'Summaries\driver_details.csv').append(driver_details).drop_duplicates(subset=driver_details.columns.tolist()).to_csv(r'Summaries\driver_details.csv',index=False)
             
 #Race details
 gp_details={}
@@ -227,21 +226,11 @@ print(race_details.shape,
       )    
 
 
-pd.read_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\race_details.csv').append(race_details).drop_duplicates(subset=race_details.columns.tolist()).to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\race_details.csv',index=False)
-pd.read_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\qualifyings.csv').append(qualifyings).drop_duplicates(subset=qualifyings.columns.tolist()).to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\qualifyings.csv',index=False)
-pd.read_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\practices.csv').append(practices).drop_duplicates(subset=practices.columns.tolist()).to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\practices.csv',index=False)
-pd.read_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\starting_grids.csv').append(starting_grids).drop_duplicates(subset=starting_grids.columns.tolist()).to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\starting_grids.csv',index=False)
-pd.read_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\pitstops.csv').append(pitstops).drop_duplicates(subset=pitstops.columns.tolist()).to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\pitstops.csv',index=False)
-pd.read_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\fastestlaps_detailed.csv').append(fastestlaps_detailed).drop_duplicates(subset=fastestlaps_detailed.columns.tolist()).to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\fastestlaps_detailed.csv',index=False)
-pd.read_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\sprint_results.csv').append(sprint_results).drop_duplicates(subset=sprint_results.columns.tolist()).to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\sprint_results.csv',index=False)
-pd.read_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\sprint_grid.csv').append(sprint_grid).drop_duplicates(subset=sprint_grid.columns.tolist()).to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\sprint_grid.csv',index=False)
-
-    
-#race_details.to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\race_details.csv',index=False)
-#qualifyings.to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\qualifyings.csv',index=False)
-#practices.to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\practices.csv',index=False)
-#starting_grids.to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\starting_grids.csv',index=False)
-#pitstops.to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\pitstops.csv',index=False)
-#fastestlaps_detailed.to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\fastestlaps_detailed.csv',index=False)
-#sprint_results.to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\sprint_results.csv',index=False)
-#sprint_grid.to_csv(r'C:\Users\gogoi\Desktop\AdHoc\Github Push\F1\GPDetails\sprint_grid.csv',index=False)
+pd.read_csv(r'GPDetails\race_details.csv').append(race_details).drop_duplicates(subset=race_details.columns.tolist()).to_csv(r'GPDetails\race_details.csv',index=False)
+pd.read_csv(r'GPDetails\qualifyings.csv').append(qualifyings).drop_duplicates(subset=qualifyings.columns.tolist()).to_csv(r'GPDetails\qualifyings.csv',index=False)
+pd.read_csv(r'GPDetails\practices.csv').append(practices).drop_duplicates(subset=practices.columns.tolist()).to_csv(r'GPDetails\practices.csv',index=False)
+pd.read_csv(r'GPDetails\starting_grids.csv').append(starting_grids).drop_duplicates(subset=starting_grids.columns.tolist()).to_csv(r'GPDetails\starting_grids.csv',index=False)
+pd.read_csv(r'GPDetails\pitstops.csv').append(pitstops).drop_duplicates(subset=pitstops.columns.tolist()).to_csv(r'GPDetails\pitstops.csv',index=False)
+pd.read_csv(r'GPDetails\fastestlaps_detailed.csv').append(fastestlaps_detailed).drop_duplicates(subset=fastestlaps_detailed.columns.tolist()).to_csv(r'GPDetails\fastestlaps_detailed.csv',index=False)
+pd.read_csv(r'GPDetails\sprint_results.csv').append(sprint_results).drop_duplicates(subset=sprint_results.columns.tolist()).to_csv(r'GPDetails\sprint_results.csv',index=False)
+pd.read_csv(r'GPDetails\sprint_grid.csv').append(sprint_grid).drop_duplicates(subset=sprint_grid.columns.tolist()).to_csv(r'GPDetails\sprint_grid.csv',index=False)
