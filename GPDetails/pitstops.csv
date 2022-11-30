@@ -19364,6 +19364,271 @@ Stops,No,Driver,Car,Lap,Time of day,Time,Total,Year,Grand Prix,Detail,DriverCode
 2,22,Yuki Tsunoda,AlphaTauri RBPT,47,16:13:25,23.904,47.913,2022,Italy,Pit-Stop-Summary,TSU
 3,16,Charles Leclerc,Ferrari,48,16:13:27,23.719,1:11.154,2022,Italy,Pit-Stop-Summary,LEC
 2,6,Nicholas Latifi,Williams Mercedes,47,16:13:35,24.263,51.045,2022,Italy,Pit-Stop-Summary,LAT
+1,47,Mick Schumacher,Haas Ferrari,12,18:24:08,25.214,25.214,2022,Bahrain,Pit-Stop-Summary,MSC
+1,23,Alexander Albon,Williams Mercedes,13,18:25:47,24.874,24.874,2022,Bahrain,Pit-Stop-Summary,ALB
+1,6,Nicholas Latifi,Williams Mercedes,14,18:27:38,24.457,24.457,2022,Bahrain,Pit-Stop-Summary,LAT
+1,16,Charles Leclerc,Ferrari,15,18:28:19,25.012,25.012,2022,Bahrain,Pit-Stop-Summary,LEC
+2,14,Fernando Alonso,Alpine Renault,25,18:45:53,24.909,50.274,2022,Bahrain,Pit-Stop-Summary,ALO
+2,1,Max Verstappen,Red Bull Racing RBPT,30,18:53:16,24.937,49.834,2022,Bahrain,Pit-Stop-Summary,VER
+2,16,Charles Leclerc,Ferrari,31,18:54:52,24.527,49.539,2022,Bahrain,Pit-Stop-Summary,LEC
+2,6,Nicholas Latifi,Williams Mercedes,32,18:58:19,24.778,49.235,2022,Bahrain,Pit-Stop-Summary,LAT
+2,55,Carlos Sainz,Ferrari,33,18:58:21,24.438,49.104,2022,Bahrain,Pit-Stop-Summary,SAI
+2,11,Sergio Perez,Red Bull Racing RBPT,33,18:58:23,24.173,49.219,2022,Bahrain,Pit-Stop-Summary,PER
+2,20,Kevin Magnussen,Haas Ferrari,34,19:00:39,25.876,51.354,2022,Bahrain,Pit-Stop-Summary,MAG
+2,18,Lance Stroll,Aston Martin Aramco Mercedes,38,19:08:04,26.957,52.696,2022,Bahrain,Pit-Stop-Summary,STR
+2,4,Lando Norris,McLaren Mercedes,41,19:13:23,27.367,51.935,2022,Bahrain,Pit-Stop-Summary,NOR
+3,14,Fernando Alonso,Alpine Renault,42,19:14:26,24.508,1:14.782,2022,Bahrain,Pit-Stop-Summary,ALO
+3,1,Max Verstappen,Red Bull Racing RBPT,43,19:14:40,24.402,1:14.236,2022,Bahrain,Pit-Stop-Summary,VER
+3,22,Yuki Tsunoda,AlphaTauri RBPT,44,19:17:39,24.188,1:14.633,2022,Bahrain,Pit-Stop-Summary,TSU
+3,77,Valtteri Bottas,Alfa Romeo Ferrari,45,19:19:39,25.188,1:16.237,2022,Bahrain,Pit-Stop-Summary,BOT
+3,16,Charles Leclerc,Ferrari,46,19:19:53,24.613,1:14.152,2022,Bahrain,Pit-Stop-Summary,LEC
+1,18,Lance Stroll,Aston Martin Aramco Mercedes,13,20:24:49,22.339,22.339,2022,Saudi Arabia,Pit-Stop-Summary,STR
+1,23,Alexander Albon,Williams Mercedes,13,20:24:54,20.683,20.683,2022,Saudi Arabia,Pit-Stop-Summary,ALB
+1,11,Sergio Perez,Red Bull Racing RBPT,15,20:27:12,20.481,20.481,2022,Saudi Arabia,Pit-Stop-Summary,PER
+1,1,Max Verstappen,Red Bull Racing RBPT,16,20:28:58,20.731,20.731,2022,Saudi Arabia,Pit-Stop-Summary,VER
+1,14,Fernando Alonso,Alpine Renault,16,20:29:40,21.543,21.543,2022,Saudi Arabia,Pit-Stop-Summary,ALO
+2,24,Zhou Guanyu,Alfa Romeo Ferrari,27,20:51:18,15.103,48.837,2022,Saudi Arabia,Pit-Stop-Summary,ZHO
+1,20,Kevin Magnussen,Haas Ferrari,37,21:06:57,22.374,22.374,2022,Saudi Arabia,Pit-Stop-Summary,MAG
+1,22,Yuki Tsunoda,AlphaTauri RBPT,18,15:32:02,18.443,18.443,2022,Australia,Pit-Stop-Summary,TSU
+1,4,Lando Norris,McLaren Mercedes,20,15:34:40,17.556,17.556,2022,Australia,Pit-Stop-Summary,NOR
+3,18,Lance Stroll,Aston Martin Aramco Mercedes,23,15:39:30,20.402,57.204,2022,Australia,Pit-Stop-Summary,STR
+2,14,Fernando Alonso,Alpine Renault,53,16:25:28,18.394,37.19,2022,Australia,Pit-Stop-Summary,ALO
+1,3,Daniel Ricciardo,McLaren Mercedes,2,15:07:48,32.362,32.362,2022,Emilia Romagna,Pit-Stop-Summary,RIC
+2,3,Daniel Ricciardo,McLaren Mercedes,16,15:31:14,30.422,1:02.784,2022,Emilia Romagna,Pit-Stop-Summary,RIC
+1,23,Alexander Albon,Williams Mercedes,17,15:32:41,30.793,30.793,2022,Emilia Romagna,Pit-Stop-Summary,ALB
+1,31,Esteban Ocon,Alpine Renault,18,15:34:08,31.409,31.409,2022,Emilia Romagna,Pit-Stop-Summary,OCO
+1,1,Max Verstappen,Red Bull Racing RBPT,19,15:34:49,30.001,30.001,2022,Emilia Romagna,Pit-Stop-Summary,VER
+2,16,Charles Leclerc,Ferrari,49,16:16:19,30.042,1:01.836,2022,Emilia Romagna,Pit-Stop-Summary,LEC
+2,1,Max Verstappen,Red Bull Racing RBPT,51,16:18:44,29.942,59.943,2022,Emilia Romagna,Pit-Stop-Summary,VER
+1,55,Carlos Sainz,Ferrari,27,16:15:51,22.063,22.063,2022,Miami,Pit-Stop-Summary,SAI
+1,11,Sergio Perez,Red Bull Racing RBPT,27,16:16:00,18.519,18.519,2022,Miami,Pit-Stop-Summary,PER
+1,31,Esteban Ocon,Alpine Renault,41,16:39:21,19.019,19.019,2022,Miami,Pit-Stop-Summary,OCO
+2,20,Kevin Magnussen,Haas Ferrari,42,16:41:34,20.673,40.433,2022,Miami,Pit-Stop-Summary,MAG
+1,44,Lewis Hamilton,Mercedes,1,15:05:05,31.054,31.054,2022,Spain,Pit-Stop-Summary,HAM
+1,20,Kevin Magnussen,Haas Ferrari,1,15:05:25,29.632,29.632,2022,Spain,Pit-Stop-Summary,MAG
+1,55,Carlos Sainz,Ferrari,10,15:18:23,22.341,22.341,2022,Spain,Pit-Stop-Summary,SAI
+1,10,Pierre Gasly,AlphaTauri RBPT,10,15:18:27,22.008,22.008,2022,Spain,Pit-Stop-Summary,GAS
+1,22,Yuki Tsunoda,AlphaTauri RBPT,11,15:19:52,23.083,23.083,2022,Spain,Pit-Stop-Summary,TSU
+1,3,Daniel Ricciardo,McLaren Mercedes,11,15:19:54,22.124,22.124,2022,Spain,Pit-Stop-Summary,RIC
+1,47,Mick Schumacher,Haas Ferrari,12,15:21:23,23.582,23.582,2022,Spain,Pit-Stop-Summary,MSC
+1,1,Max Verstappen,Red Bull Racing RBPT,13,15:22:30,22.173,22.173,2022,Spain,Pit-Stop-Summary,VER
+1,31,Esteban Ocon,Alpine Renault,13,15:22:43,22.137,22.137,2022,Spain,Pit-Stop-Summary,OCO
+1,18,Lance Stroll,Aston Martin Aramco Mercedes,14,15:24:34,22.833,22.833,2022,Spain,Pit-Stop-Summary,STR
+1,11,Sergio Perez,Red Bull Racing RBPT,17,15:28:29,22.032,22.032,2022,Spain,Pit-Stop-Summary,PER
+1,5,Sebastian Vettel,Aston Martin Aramco Mercedes,21,15:35:06,22.536,22.536,2022,Spain,Pit-Stop-Summary,VET
+2,23,Alexander Albon,Williams Mercedes,25,15:41:42,22.657,46.076,2022,Spain,Pit-Stop-Summary,ALB
+2,18,Lance Stroll,Aston Martin Aramco Mercedes,27,15:44:33,23.394,46.227,2022,Spain,Pit-Stop-Summary,STR
+2,1,Max Verstappen,Red Bull Racing RBPT,28,15:44:56,21.966,44.139,2022,Spain,Pit-Stop-Summary,VER
+2,55,Carlos Sainz,Ferrari,31,15:49:46,21.867,44.208,2022,Spain,Pit-Stop-Summary,SAI
+2,4,Lando Norris,McLaren Mercedes,33,15:52:58,23.341,45.257,2022,Spain,Pit-Stop-Summary,NOR
+2,31,Esteban Ocon,Alpine Renault,35,15:55:53,22.953,45.090,2022,Spain,Pit-Stop-Summary,OCO
+3,23,Alexander Albon,Williams Mercedes,45,16:12:16,23.328,1:09.404,2022,Spain,Pit-Stop-Summary,ALB
+3,18,Lance Stroll,Aston Martin Aramco Mercedes,46,16:13:18,23.812,1:10.039,2022,Spain,Pit-Stop-Summary,STR
+3,11,Sergio Perez,Red Bull Racing RBPT,53,16:21:47,21.694,1:05.345,2022,Spain,Pit-Stop-Summary,PER
+3,14,Fernando Alonso,Alpine Renault,53,16:22:49,25.407,1:09.696,2022,Spain,Pit-Stop-Summary,ALO
+1,5,Sebastian Vettel,Aston Martin Aramco Mercedes,9,15:20:55,20.249,20.249,2022,Azerbaijan,Pit-Stop-Summary,VET
+1,22,Yuki Tsunoda,AlphaTauri RBPT,9,15:20:57,23.083,23.083,2022,Azerbaijan,Pit-Stop-Summary,TSU
+1,24,Zhou Guanyu,Alfa Romeo Ferrari,9,15:21:08,23.001,23.001,2022,Azerbaijan,Pit-Stop-Summary,ZHO
+1,23,Alexander Albon,Williams Mercedes,9,15:21:16,25.577,25.577,2022,Azerbaijan,Pit-Stop-Summary,ALB
+1,47,Mick Schumacher,Haas Ferrari,9,15:21:23,26.973,26.973,2022,Azerbaijan,Pit-Stop-Summary,MSC
+2,6,Nicholas Latifi,Williams Mercedes,17,15:37:03,22.069,51.464,2022,Azerbaijan,Pit-Stop-Summary,LAT
+1,1,Max Verstappen,Red Bull Racing RBPT,18,15:37:17,21.468,21.468,2022,Azerbaijan,Pit-Stop-Summary,VER
+1,14,Fernando Alonso,Alpine Renault,18,15:37:59,20.571,20.571,2022,Azerbaijan,Pit-Stop-Summary,ALO
+2,47,Mick Schumacher,Haas Ferrari,23,15:47:51,22.231,49.204,2022,Azerbaijan,Pit-Stop-Summary,MSC
+2,1,Max Verstappen,Red Bull Racing RBPT,33,16:04:40,20.722,42.190,2022,Azerbaijan,Pit-Stop-Summary,VER
+2,63,George Russell,Mercedes,33,16:05:19,20.527,41.065,2022,Azerbaijan,Pit-Stop-Summary,RUS
+1,23,Alexander Albon,Williams Mercedes,18,14:28:07,23.804,23.804,2022,Canada,Pit-Stop-Summary,ALB
+1,3,Daniel Ricciardo,McLaren Mercedes,19,14:29:26,27.937,27.937,2022,Canada,Pit-Stop-Summary,RIC
+2,5,Sebastian Vettel,Aston Martin Aramco Mercedes,19,14:29:44,23.681,47.087,2022,Canada,Pit-Stop-Summary,VET
+2,10,Pierre Gasly,AlphaTauri RBPT,36,14:52:35,23.613,47.170,2022,Canada,Pit-Stop-Summary,GAS
+2,6,Nicholas Latifi,Williams Mercedes,37,14:54:22,30.034,54.054,2022,Canada,Pit-Stop-Summary,LAT
+2,44,Lewis Hamilton,Mercedes,44,15:02:06,23.841,47.686,2022,Canada,Pit-Stop-Summary,HAM
+2,63,George Russell,Mercedes,45,15:03:30,24.069,48.020,2022,Canada,Pit-Stop-Summary,RUS
+1,77,Valtteri Bottas,Alfa Romeo Ferrari,49,15:09:50,26.089,26.089,2022,Canada,Pit-Stop-Summary,BOT
+2,3,Daniel Ricciardo,McLaren Mercedes,49,15:10:08,24.833,52.770,2022,Canada,Pit-Stop-Summary,RIC
+1,11,Sergio Perez,Red Bull Racing RBPT,1,15:05:03,23.681,23.681,2022,Austria,Pit-Stop-Summary,PER
+1,3,Daniel Ricciardo,McLaren Mercedes,12,15:17:44,21.356,21.356,2022,Austria,Pit-Stop-Summary,RIC
+1,6,Nicholas Latifi,Williams Mercedes,12,15:17:50,21.722,21.722,2022,Austria,Pit-Stop-Summary,LAT
+1,16,Charles Leclerc,Ferrari,26,15:33:54,21.532,21.532,2022,Austria,Pit-Stop-Summary,LEC
+1,22,Yuki Tsunoda,AlphaTauri RBPT,26,15:34:42,21.749,21.749,2022,Austria,Pit-Stop-Summary,TSU
+1,18,Lance Stroll,Aston Martin Aramco Mercedes,29,15:38:12,21.431,21.431,2022,Austria,Pit-Stop-Summary,STR
+2,1,Max Verstappen,Red Bull Racing RBPT,36,15:45:57,21.444,43.466,2022,Austria,Pit-Stop-Summary,VER
+2,77,Valtteri Bottas,Alfa Romeo Ferrari,39,15:50:27,22.278,46.955,2022,Austria,Pit-Stop-Summary,BOT
+2,63,George Russell,Mercedes,40,15:51:25,21.731,59.932,2022,Austria,Pit-Stop-Summary,RUS
+2,5,Sebastian Vettel,Aston Martin Aramco Mercedes,44,15:56:41,21.583,43.695,2022,Austria,Pit-Stop-Summary,VET
+2,22,Yuki Tsunoda,AlphaTauri RBPT,46,15:58:59,21.519,43.268,2022,Austria,Pit-Stop-Summary,TSU
+2,16,Charles Leclerc,Ferrari,49,16:01:09,21.319,42.851,2022,Austria,Pit-Stop-Summary,LEC
+2,18,Lance Stroll,Aston Martin Aramco Mercedes,48,16:01:18,21.952,43.383,2022,Austria,Pit-Stop-Summary,STR
+2,55,Carlos Sainz,Ferrari,50,16:02:23,21.492,42.704,2022,Austria,Pit-Stop-Summary,SAI
+2,14,Fernando Alonso,Alpine Renault,57,16:11:50,21.827,43.379,2022,Austria,Pit-Stop-Summary,ALO
+3,1,Max Verstappen,Red Bull Racing RBPT,58,16:12:09,21.319,1:04.785,2022,Austria,Pit-Stop-Summary,VER
+1,22,Yuki Tsunoda,AlphaTauri RBPT,13,15:22:33,21.577,21.577,2022,Hungary,Pit-Stop-Summary,TSU
+1,4,Lando Norris,McLaren Mercedes,14,15:23:43,23.567,23.567,2022,Hungary,Pit-Stop-Summary,NOR
+1,3,Daniel Ricciardo,McLaren Mercedes,15,15:25:20,21.558,21.558,2022,Hungary,Pit-Stop-Summary,RIC
+1,5,Sebastian Vettel,Aston Martin Aramco Mercedes,15,15:25:23,21.402,21.402,2022,Hungary,Pit-Stop-Summary,VET
+1,11,Sergio Perez,Red Bull Racing RBPT,18,15:29:20,21.118,21.118,2022,Hungary,Pit-Stop-Summary,PER
+1,14,Fernando Alonso,Alpine Renault,21,15:33:45,22.083,22.083,2022,Hungary,Pit-Stop-Summary,ALO
+1,47,Mick Schumacher,Haas Ferrari,21,15:33:58,22.953,22.953,2022,Hungary,Pit-Stop-Summary,MSC
+1,24,Zhou Guanyu,Alfa Romeo Ferrari,27,15:42:36,22.321,22.321,2022,Hungary,Pit-Stop-Summary,ZHO
+2,16,Charles Leclerc,Ferrari,39,15:58:41,21.972,43.747,2022,Hungary,Pit-Stop-Summary,LEC
+2,63,George Russell,Mercedes,39,15:58:47,21.743,44.506,2022,Hungary,Pit-Stop-Summary,RUS
+2,6,Nicholas Latifi,Williams Mercedes,39,16:00:11,22.452,44.317,2022,Hungary,Pit-Stop-Summary,LAT
+3,23,Alexander Albon,Williams Mercedes,40,16:01:49,24.298,1:17.338,2022,Hungary,Pit-Stop-Summary,ALB
+2,11,Sergio Perez,Red Bull Racing RBPT,42,16:03:23,21.167,42.285,2022,Hungary,Pit-Stop-Summary,PER
+2,24,Zhou Guanyu,Alfa Romeo Ferrari,51,16:17:20,28.218,50.539,2022,Hungary,Pit-Stop-Summary,ZHO
+3,6,Nicholas Latifi,Williams Mercedes,56,16:24:42,28.777,1:13.094,2022,Hungary,Pit-Stop-Summary,LAT
+1,55,Carlos Sainz,Ferrari,11,15:27:20,22.543,22.543,2022,Belgium,Pit-Stop-Summary,SAI
+1,4,Lando Norris,McLaren Mercedes,13,15:31:34,23.036,23.036,2022,Belgium,Pit-Stop-Summary,NOR
+1,5,Sebastian Vettel,Aston Martin Aramco Mercedes,14,15:33:20,23.222,23.222,2022,Belgium,Pit-Stop-Summary,VET
+1,1,Max Verstappen,Red Bull Racing RBPT,15,15:34:57,22.882,22.882,2022,Belgium,Pit-Stop-Summary,VER
+2,6,Nicholas Latifi,Williams Mercedes,15,15:35:37,24.168,59.993,2022,Belgium,Pit-Stop-Summary,LAT
+2,10,Pierre Gasly,AlphaTauri RBPT,22,15:49:05,22.542,45.399,2022,Belgium,Pit-Stop-Summary,GAS
+2,63,George Russell,Mercedes,29,16:01:48,22.977,45.802,2022,Belgium,Pit-Stop-Summary,RUS
+2,5,Sebastian Vettel,Aston Martin Aramco Mercedes,33,16:09:55,22.833,46.055,2022,Belgium,Pit-Stop-Summary,VET
+1,47,Mick Schumacher,Haas Ferrari,13,15:20:02,26.813,26.813,2022,Netherlands,Pit-Stop-Summary,MSC
+1,6,Nicholas Latifi,Williams Mercedes,13,15:20:19,20.284,20.284,2022,Netherlands,Pit-Stop-Summary,LAT
+2,24,Zhou Guanyu,Alfa Romeo Ferrari,37,15:51:33,25.433,44.981,2022,Netherlands,Pit-Stop-Summary,ZHO
+2,18,Lance Stroll,Aston Martin Aramco Mercedes,38,15:52:27,20.214,40.419,2022,Netherlands,Pit-Stop-Summary,STR
+2,23,Alexander Albon,Williams Mercedes,42,15:58:02,19.911,39.236,2022,Netherlands,Pit-Stop-Summary,ALB
+2,4,Lando Norris,McLaren Mercedes,47,16:04:07,21.117,40.420,2022,Netherlands,Pit-Stop-Summary,NOR
+2,14,Fernando Alonso,Alpine Renault,47,16:04:12,21.501,41.079,2022,Netherlands,Pit-Stop-Summary,ALO
+2,63,George Russell,Mercedes,48,16:05:08,20.742,40.101,2022,Netherlands,Pit-Stop-Summary,RUS
+3,23,Alexander Albon,Williams Mercedes,55,16:16:14,20.508,59.744,2022,Netherlands,Pit-Stop-Summary,ALB
+2,31,Esteban Ocon,Alpine Renault,56,16:17:06,21.602,41.057,2022,Netherlands,Pit-Stop-Summary,OCO
+4,6,Nicholas Latifi,Williams Mercedes,55,16:18:20,14.459,1:15.527,2022,Netherlands,Pit-Stop-Summary,LAT
+3,63,George Russell,Mercedes,57,16:18:21,21.363,1:01.464,2022,Netherlands,Pit-Stop-Summary,RUS
+3,31,Esteban Ocon,Alpine Renault,57,16:19:10,14.041,55.098,2022,Netherlands,Pit-Stop-Summary,OCO
+4,10,Pierre Gasly,AlphaTauri RBPT,57,16:19:20,13.973,1:10.034,2022,Netherlands,Pit-Stop-Summary,GAS
+1,6,Nicholas Latifi,Williams Mercedes,15,15:26:02,26.782,26.782,2022,Italy,Pit-Stop-Summary,LAT
+1,10,Pierre Gasly,AlphaTauri RBPT,18,15:30:13,25.376,25.376,2022,Italy,Pit-Stop-Summary,GAS
+1,44,Lewis Hamilton,Mercedes,33,15:52:05,24.282,24.282,2022,Italy,Pit-Stop-Summary,HAM
+1,47,Mick Schumacher,Haas Ferrari,33,15:52:21,24.817,24.817,2022,Italy,Pit-Stop-Summary,MSC
+1,4,Lando Norris,McLaren Mercedes,35,15:54:54,26.714,26.714,2022,Italy,Pit-Stop-Summary,NOR
+1,77,Valtteri Bottas,Alfa Romeo Ferrari,35,15:55:18,24.758,24.758,2022,Italy,Pit-Stop-Summary,BOT
+2,4,Lando Norris,McLaren Mercedes,47,16:12:41,24.784,51.498,2022,Italy,Pit-Stop-Summary,NOR
+2,1,Max Verstappen,Red Bull Racing RBPT,48,16:13:04,24.091,47.882,2022,Italy,Pit-Stop-Summary,VER
+1,20,Kevin Magnussen,Haas Ferrari,7,21:23:45,39.247,39.247,2022,Singapore,Pit-Stop-Summary,MAG
+1,63,George Russell,Mercedes,21,21:54:16,30.378,30.378,2022,Singapore,Pit-Stop-Summary,RUS
+1,10,Pierre Gasly,AlphaTauri RBPT,33,22:19:45,29.867,29.867,2022,Singapore,Pit-Stop-Summary,GAS
+1,22,Yuki Tsunoda,AlphaTauri RBPT,33,22:20:11,31.293,31.293,2022,Singapore,Pit-Stop-Summary,TSU
+1,77,Valtteri Bottas,Alfa Romeo Ferrari,33,22:20:13,32.167,32.167,2022,Singapore,Pit-Stop-Summary,BOT
+2,20,Kevin Magnussen,Haas Ferrari,33,22:20:17,32.603,1:11.850,2022,Singapore,Pit-Stop-Summary,MAG
+1,16,Charles Leclerc,Ferrari,34,22:20:56,32.058,32.058,2022,Singapore,Pit-Stop-Summary,LEC
+1,44,Lewis Hamilton,Mercedes,34,22:21:36,41.019,41.019,2022,Singapore,Pit-Stop-Summary,HAM
+1,5,Sebastian Vettel,Aston Martin Aramco Mercedes,34,22:21:44,29.704,29.704,2022,Singapore,Pit-Stop-Summary,VET
+1,47,Mick Schumacher,Haas Ferrari,34,22:22:03,31.201,31.201,2022,Singapore,Pit-Stop-Summary,MSC
+1,11,Sergio Perez,Red Bull Racing RBPT,35,22:22:51,29.55,29.550,2022,Singapore,Pit-Stop-Summary,PER
+1,55,Carlos Sainz,Ferrari,35,22:23:17,30.603,30.603,2022,Singapore,Pit-Stop-Summary,SAI
+1,1,Max Verstappen,Red Bull Racing RBPT,35,22:23:33,29.407,29.407,2022,Singapore,Pit-Stop-Summary,VER
+1,18,Lance Stroll,Aston Martin Aramco Mercedes,35,22:23:50,29.863,29.863,2022,Singapore,Pit-Stop-Summary,STR
+2,63,George Russell,Mercedes,35,22:25:08,29.713,1:00.091,2022,Singapore,Pit-Stop-Summary,RUS
+1,4,Lando Norris,McLaren Mercedes,36,22:25:51,30.528,30.528,2022,Singapore,Pit-Stop-Summary,NOR
+1,3,Daniel Ricciardo,McLaren Mercedes,36,22:26:23,30.946,30.946,2022,Singapore,Pit-Stop-Summary,RIC
+2,1,Max Verstappen,Red Bull Racing RBPT,40,22:36:35,29.775,59.182,2022,Singapore,Pit-Stop-Summary,VER
+2,47,Mick Schumacher,Haas Ferrari,41,22:39:34,34.722,1:05.923,2022,Singapore,Pit-Stop-Summary,MSC
+3,63,George Russell,Mercedes,41,22:39:46,33.211,1:33.302,2022,Singapore,Pit-Stop-Summary,RUS
+4,63,George Russell,Mercedes,51,22:59:32,29.893,2:03.195,2022,Singapore,Pit-Stop-Summary,RUS
+1,10,Pierre Gasly,AlphaTauri RBPT,1,14:06:24,41.319,41.319,2022,Japan,Pit-Stop-Summary,GAS
+1,1,Max Verstappen,Red Bull Racing RBPT,2,14:08:39,6:27.399,6:27.399,2022,Japan,Pit-Stop-Summary,VER
+1,16,Charles Leclerc,Ferrari,2,14:08:41,6:29.973,6:29.973,2022,Japan,Pit-Stop-Summary,LEC
+1,11,Sergio Perez,Red Bull Racing RBPT,2,14:08:44,6:32.517,6:32.517,2022,Japan,Pit-Stop-Summary,PER
+1,31,Esteban Ocon,Alpine Renault,2,14:08:46,6:33.601,6:33.601,2022,Japan,Pit-Stop-Summary,OCO
+1,44,Lewis Hamilton,Mercedes,2,14:08:49,6:36.504,6:36.504,2022,Japan,Pit-Stop-Summary,HAM
+1,14,Fernando Alonso,Alpine Renault,2,14:08:52,6:36.837,6:36.837,2022,Japan,Pit-Stop-Summary,ALO
+1,63,George Russell,Mercedes,2,14:08:54,6:41.057,6:41.057,2022,Japan,Pit-Stop-Summary,RUS
+1,3,Daniel Ricciardo,McLaren Mercedes,2,14:08:57,6:41.749,6:41.749,2022,Japan,Pit-Stop-Summary,RIC
+1,22,Yuki Tsunoda,AlphaTauri RBPT,2,14:09:00,6:42.478,6:42.478,2022,Japan,Pit-Stop-Summary,TSU
+1,47,Mick Schumacher,Haas Ferrari,2,14:09:04,6:40.857,6:40.857,2022,Japan,Pit-Stop-Summary,MSC
+1,18,Lance Stroll,Aston Martin Aramco Mercedes,2,14:09:07,6:40.463,6:40.463,2022,Japan,Pit-Stop-Summary,STR
+1,20,Kevin Magnussen,Haas Ferrari,2,14:09:08,6:42.029,6:42.029,2022,Japan,Pit-Stop-Summary,MAG
+1,4,Lando Norris,McLaren Mercedes,2,14:09:10,6:46.256,6:46.256,2022,Japan,Pit-Stop-Summary,NOR
+1,77,Valtteri Bottas,Alfa Romeo Ferrari,2,14:09:11,6:47.553,6:47.553,2022,Japan,Pit-Stop-Summary,BOT
+1,6,Nicholas Latifi,Williams Mercedes,2,14:09:14,6:47.673,6:47.673,2022,Japan,Pit-Stop-Summary,LAT
+1,5,Sebastian Vettel,Aston Martin Aramco Mercedes,2,14:09:17,6:49.647,6:49.647,2022,Japan,Pit-Stop-Summary,VET
+1,24,Zhou Guanyu,Alfa Romeo Ferrari,2,14:09:20,6:50.005,6:50.005,2022,Japan,Pit-Stop-Summary,ZHO
+2,10,Pierre Gasly,AlphaTauri RBPT,2,14:09:22,6:49.011,7:30.330,2022,Japan,Pit-Stop-Summary,GAS
+2,6,Nicholas Latifi,Williams Mercedes,5,16:23:57,24.785,7:12.458,2022,Japan,Pit-Stop-Summary,LAT
+2,5,Sebastian Vettel,Aston Martin Aramco Mercedes,5,16:23:58,24.218,7:13.865,2022,Japan,Pit-Stop-Summary,VET
+2,4,Lando Norris,McLaren Mercedes,6,16:25:53,24.595,7:10.851,2022,Japan,Pit-Stop-Summary,NOR
+2,77,Valtteri Bottas,Alfa Romeo Ferrari,6,16:25:56,24.869,7:12.422,2022,Japan,Pit-Stop-Summary,BOT
+2,1,Max Verstappen,Red Bull Racing RBPT,7,16:27:26,24.308,6:51.707,2022,Japan,Pit-Stop-Summary,VER
+2,16,Charles Leclerc,Ferrari,7,16:27:27,25.899,6:55.872,2022,Japan,Pit-Stop-Summary,LEC
+2,11,Sergio Perez,Red Bull Racing RBPT,7,16:27:32,25.322,6:57.839,2022,Japan,Pit-Stop-Summary,PER
+2,31,Esteban Ocon,Alpine Renault,7,16:27:34,25.172,6:58.773,2022,Japan,Pit-Stop-Summary,OCO
+2,44,Lewis Hamilton,Mercedes,7,16:27:36,25.059,7:01.563,2022,Japan,Pit-Stop-Summary,HAM
+2,63,George Russell,Mercedes,7,16:27:40,28.728,7:09.785,2022,Japan,Pit-Stop-Summary,RUS
+2,22,Yuki Tsunoda,AlphaTauri RBPT,7,16:27:44,24.439,7:06.917,2022,Japan,Pit-Stop-Summary,TSU
+2,20,Kevin Magnussen,Haas Ferrari,7,16:27:47,25.594,7:07.623,2022,Japan,Pit-Stop-Summary,MAG
+2,18,Lance Stroll,Aston Martin Aramco Mercedes,7,16:27:48,24.005,7:04.468,2022,Japan,Pit-Stop-Summary,STR
+3,10,Pierre Gasly,AlphaTauri RBPT,7,16:27:52,24.966,7:55.296,2022,Japan,Pit-Stop-Summary,GAS
+2,14,Fernando Alonso,Alpine Renault,8,16:29:28,24.106,7:00.943,2022,Japan,Pit-Stop-Summary,ALO
+2,3,Daniel Ricciardo,McLaren Mercedes,8,16:29:36,25.377,7:07.126,2022,Japan,Pit-Stop-Summary,RIC
+2,24,Zhou Guanyu,Alfa Romeo Ferrari,9,16:31:37,24.563,7:14.568,2022,Japan,Pit-Stop-Summary,ZHO
+2,47,Mick Schumacher,Haas Ferrari,11,16:35:25,24.608,7:05.465,2022,Japan,Pit-Stop-Summary,MSC
+3,24,Zhou Guanyu,Alfa Romeo Ferrari,18,16:48:24,24.266,7:38.834,2022,Japan,Pit-Stop-Summary,ZHO
+3,18,Lance Stroll,Aston Martin Aramco Mercedes,19,16:50:04,23.870,7:28.338,2022,Japan,Pit-Stop-Summary,STR
+4,10,Pierre Gasly,AlphaTauri RBPT,19,16:50:13,23.966,8:19.262,2022,Japan,Pit-Stop-Summary,GAS
+3,22,Yuki Tsunoda,AlphaTauri RBPT,20,16:51:53,23.756,7:30.673,2022,Japan,Pit-Stop-Summary,TSU
+3,14,Fernando Alonso,Alpine Renault,22,16:55:11,24.123,7:25.066,2022,Japan,Pit-Stop-Summary,ALO
+1,6,Nicholas Latifi,Williams Mercedes,5,14:12:42,25.321,25.321,2022,United States,Pit-Stop-Summary,LAT
+1,23,Alexander Albon,Williams Mercedes,9,14:19:29,24.624,24.624,2022,United States,Pit-Stop-Summary,ALB
+1,24,Zhou Guanyu,Alfa Romeo Ferrari,9,14:19:31,27.326,27.326,2022,United States,Pit-Stop-Summary,ZHO
+1,77,Valtteri Bottas,Alfa Romeo Ferrari,10,14:21:08,25.013,25.013,2022,United States,Pit-Stop-Summary,BOT
+1,22,Yuki Tsunoda,AlphaTauri RBPT,10,14:21:14,23.688,23.688,2022,United States,Pit-Stop-Summary,TSU
+1,3,Daniel Ricciardo,McLaren Mercedes,10,14:21:17,26.206,26.206,2022,United States,Pit-Stop-Summary,RIC
+1,10,Pierre Gasly,AlphaTauri RBPT,11,14:22:51,23.67,23.670,2022,United States,Pit-Stop-Summary,GAS
+1,44,Lewis Hamilton,Mercedes,12,14:24:13,24.362,24.362,2022,United States,Pit-Stop-Summary,HAM
+1,1,Max Verstappen,Red Bull Racing RBPT,13,14:25:50,23.866,23.866,2022,United States,Pit-Stop-Summary,VER
+1,63,George Russell,Mercedes,13,14:26:03,30.038,30.038,2022,United States,Pit-Stop-Summary,RUS
+1,11,Sergio Perez,Red Bull Racing RBPT,14,14:27:47,23.403,23.403,2022,United States,Pit-Stop-Summary,PER
+1,4,Lando Norris,McLaren Mercedes,14,14:28:05,24.026,24.026,2022,United States,Pit-Stop-Summary,NOR
+1,18,Lance Stroll,Aston Martin Aramco Mercedes,15,14:29:39,25.417,25.417,2022,United States,Pit-Stop-Summary,STR
+1,16,Charles Leclerc,Ferrari,18,14:34:58,24.314,24.314,2022,United States,Pit-Stop-Summary,LEC
+1,5,Sebastian Vettel,Aston Martin Aramco Mercedes,18,14:35:06,24.307,24.307,2022,United States,Pit-Stop-Summary,VET
+1,14,Fernando Alonso,Alpine Renault,18,14:35:26,23.87,23.870,2022,United States,Pit-Stop-Summary,ALO
+1,31,Esteban Ocon,Alpine Renault,18,14:35:37,24.816,24.816,2022,United States,Pit-Stop-Summary,OCO
+1,47,Mick Schumacher,Haas Ferrari,18,14:35:37,25.209,25.209,2022,United States,Pit-Stop-Summary,MSC
+1,20,Kevin Magnussen,Haas Ferrari,18,14:35:42,29.039,29.039,2022,United States,Pit-Stop-Summary,MAG
+2,23,Alexander Albon,Williams Mercedes,18,14:35:50,24.311,48.935,2022,United States,Pit-Stop-Summary,ALB
+2,6,Nicholas Latifi,Williams Mercedes,18,14:36:12,24.195,49.516,2022,United States,Pit-Stop-Summary,LAT
+2,14,Fernando Alonso,Alpine Renault,22,14:45:23,39.707,1:03.577,2022,United States,Pit-Stop-Summary,ALO
+2,24,Zhou Guanyu,Alfa Romeo Ferrari,23,14:48:10,25.015,52.341,2022,United States,Pit-Stop-Summary,ZHO
+2,10,Pierre Gasly,AlphaTauri RBPT,32,15:05:32,28.918,52.588,2022,United States,Pit-Stop-Summary,GAS
+2,22,Yuki Tsunoda,AlphaTauri RBPT,33,15:07:16,23.241,46.929,2022,United States,Pit-Stop-Summary,TSU
+2,47,Mick Schumacher,Haas Ferrari,33,15:07:18,24.651,49.860,2022,United States,Pit-Stop-Summary,MSC
+2,44,Lewis Hamilton,Mercedes,34,15:08:39,24.135,48.497,2022,United States,Pit-Stop-Summary,HAM
+2,4,Lando Norris,McLaren Mercedes,34,15:08:59,23.702,47.728,2022,United States,Pit-Stop-Summary,NOR
+2,1,Max Verstappen,Red Bull Racing RBPT,35,15:10:18,32.254,56.120,2022,United States,Pit-Stop-Summary,VER
+2,16,Charles Leclerc,Ferrari,35,15:10:26,23.755,48.069,2022,United States,Pit-Stop-Summary,LEC
+2,3,Daniel Ricciardo,McLaren Mercedes,35,15:10:56,24.436,50.642,2022,United States,Pit-Stop-Summary,RIC
+2,63,George Russell,Mercedes,36,15:12:10,24.509,54.547,2022,United States,Pit-Stop-Summary,RUS
+2,11,Sergio Perez,Red Bull Racing RBPT,38,15:15:33,24.801,48.204,2022,United States,Pit-Stop-Summary,PER
+2,5,Sebastian Vettel,Aston Martin Aramco Mercedes,41,15:20:46,38.157,1:02.464,2022,United States,Pit-Stop-Summary,VET
+2,31,Esteban Ocon,Alpine Renault,45,15:28:05,24.711,49.527,2022,United States,Pit-Stop-Summary,OCO
+3,63,George Russell,Mercedes,54,15:42:52,23.947,1:18.494,2022,United States,Pit-Stop-Summary,RUS
+1,18,Lance Stroll,Aston Martin Aramco Mercedes,17,14:27:31,23.509,23.509,2022,Mexico,Pit-Stop-Summary,STR
+1,11,Sergio Perez,Red Bull Racing RBPT,23,14:35:10,24.892,24.892,2022,Mexico,Pit-Stop-Summary,PER
+1,6,Nicholas Latifi,Williams Mercedes,23,14:36:14,23.826,23.826,2022,Mexico,Pit-Stop-Summary,LAT
+1,47,Mick Schumacher,Haas Ferrari,24,14:37:37,23.679,23.679,2022,Mexico,Pit-Stop-Summary,MSC
+1,1,Max Verstappen,Red Bull Racing RBPT,25,14:37:51,22.487,22.487,2022,Mexico,Pit-Stop-Summary,VER
+1,16,Charles Leclerc,Ferrari,28,14:42:33,22.193,22.193,2022,Mexico,Pit-Stop-Summary,LEC
+1,44,Lewis Hamilton,Mercedes,29,14:43:26,23.194,23.194,2022,Mexico,Pit-Stop-Summary,HAM
+1,55,Carlos Sainz,Ferrari,29,14:43:52,23.469,23.469,2022,Mexico,Pit-Stop-Summary,SAI
+1,22,Yuki Tsunoda,AlphaTauri RBPT,29,14:44:16,22.468,22.468,2022,Mexico,Pit-Stop-Summary,TSU
+1,4,Lando Norris,McLaren Mercedes,31,14:47:02,22.585,22.585,2022,Mexico,Pit-Stop-Summary,NOR
+1,31,Esteban Ocon,Alpine Renault,33,14:49:47,22.343,22.343,2022,Mexico,Pit-Stop-Summary,OCO
+1,63,George Russell,Mercedes,34,14:50:27,22.795,22.795,2022,Mexico,Pit-Stop-Summary,RUS
+1,5,Sebastian Vettel,Aston Martin Aramco Mercedes,38,14:57:10,22.534,22.534,2022,Mexico,Pit-Stop-Summary,VET
+1,23,Alexander Albon,Williams Mercedes,38,14:57:16,23.182,23.182,2022,Mexico,Pit-Stop-Summary,ALB
+1,20,Kevin Magnussen,Haas Ferrari,38,14:57:34,23.722,23.722,2022,Mexico,Pit-Stop-Summary,MAG
+1,77,Valtteri Bottas,Alfa Romeo Ferrari,39,14:58:09,23.863,23.863,2022,Mexico,Pit-Stop-Summary,BOT
+1,14,Fernando Alonso,Alpine Renault,40,14:59:30,23.159,23.159,2022,Mexico,Pit-Stop-Summary,ALO
+1,10,Pierre Gasly,AlphaTauri RBPT,40,15:00:02,29.168,29.168,2022,Mexico,Pit-Stop-Summary,GAS
+2,18,Lance Stroll,Aston Martin Aramco Mercedes,40,15:00:20,23.119,46.628,2022,Mexico,Pit-Stop-Summary,STR
+1,3,Daniel Ricciardo,McLaren Mercedes,44,15:05:25,22.28,22.28,2022,Mexico,Pit-Stop-Summary,RIC
+1,24,Zhou Guanyu,Alfa Romeo Ferrari,45,15:07:02,24.218,24.218,2022,Mexico,Pit-Stop-Summary,ZHO
+2,6,Nicholas Latifi,Williams Mercedes,52,15:17:55,24.039,47.865,2022,Mexico,Pit-Stop-Summary,LAT
+2,63,George Russell,Mercedes,69,15:39:22,23.118,45.913,2022,Mexico,Pit-Stop-Summary,RUS
 1,44,Lewis Hamilton,Mercedes,11,18:21:54,25.201,25.201,2022,Bahrain,Pit-Stop-Summary,HAM
 1,14,Fernando Alonso,Alpine Renault,11,18:22:10,25.365,25.365,2022,Bahrain,Pit-Stop-Summary,ALO
 1,47,Mick Schumacher,Haas Ferrari,12,18:24:08,25.214,25.214,2022,Bahrain,Pit-Stop-Summary,MSC
@@ -19893,45 +20158,137 @@ Stops,No,Driver,Car,Lap,Time of day,Time,Total,Year,Grand Prix,Detail,DriverCode
 2,47,Mick Schumacher,Haas Ferrari,41,22:39:34,34.722,1:05.923,2022,Singapore,Pit-Stop-Summary,MSC
 3,63,George Russell,Mercedes,41,22:39:46,33.211,1:33.302,2022,Singapore,Pit-Stop-Summary,RUS
 4,63,George Russell,Mercedes,51,22:59:32,29.893,2:03.195,2022,Singapore,Pit-Stop-Summary,RUS
-1,10,Pierre Gasly,AlphaTauri RBPT,1,14:06:24,41.319,41.319,2022,Japan,Pit-Stop-Summary,GAS
-1,1,Max Verstappen,Red Bull Racing RBPT,2,14:08:39,6:27.399,6:27.399,2022,Japan,Pit-Stop-Summary,VER
-1,16,Charles Leclerc,Ferrari,2,14:08:41,6:29.973,6:29.973,2022,Japan,Pit-Stop-Summary,LEC
-1,11,Sergio Perez,Red Bull Racing RBPT,2,14:08:44,6:32.517,6:32.517,2022,Japan,Pit-Stop-Summary,PER
-1,31,Esteban Ocon,Alpine Renault,2,14:08:46,6:33.601,6:33.601,2022,Japan,Pit-Stop-Summary,OCO
-1,44,Lewis Hamilton,Mercedes,2,14:08:49,6:36.504,6:36.504,2022,Japan,Pit-Stop-Summary,HAM
-1,14,Fernando Alonso,Alpine Renault,2,14:08:52,6:36.837,6:36.837,2022,Japan,Pit-Stop-Summary,ALO
-1,63,George Russell,Mercedes,2,14:08:54,6:41.057,6:41.057,2022,Japan,Pit-Stop-Summary,RUS
-1,3,Daniel Ricciardo,McLaren Mercedes,2,14:08:57,6:41.749,6:41.749,2022,Japan,Pit-Stop-Summary,RIC
-1,22,Yuki Tsunoda,AlphaTauri RBPT,2,14:09:00,6:42.478,6:42.478,2022,Japan,Pit-Stop-Summary,TSU
-1,47,Mick Schumacher,Haas Ferrari,2,14:09:04,6:40.857,6:40.857,2022,Japan,Pit-Stop-Summary,MSC
-1,18,Lance Stroll,Aston Martin Aramco Mercedes,2,14:09:07,6:40.463,6:40.463,2022,Japan,Pit-Stop-Summary,STR
-1,20,Kevin Magnussen,Haas Ferrari,2,14:09:08,6:42.029,6:42.029,2022,Japan,Pit-Stop-Summary,MAG
-1,4,Lando Norris,McLaren Mercedes,2,14:09:10,6:46.256,6:46.256,2022,Japan,Pit-Stop-Summary,NOR
-1,77,Valtteri Bottas,Alfa Romeo Ferrari,2,14:09:11,6:47.553,6:47.553,2022,Japan,Pit-Stop-Summary,BOT
-1,6,Nicholas Latifi,Williams Mercedes,2,14:09:14,6:47.673,6:47.673,2022,Japan,Pit-Stop-Summary,LAT
-1,5,Sebastian Vettel,Aston Martin Aramco Mercedes,2,14:09:17,6:49.647,6:49.647,2022,Japan,Pit-Stop-Summary,VET
-1,24,Zhou Guanyu,Alfa Romeo Ferrari,2,14:09:20,6:50.005,6:50.005,2022,Japan,Pit-Stop-Summary,ZHO
-2,10,Pierre Gasly,AlphaTauri RBPT,2,14:09:22,6:49.011,7:30.330,2022,Japan,Pit-Stop-Summary,GAS
-2,6,Nicholas Latifi,Williams Mercedes,5,16:23:57,24.785,7:12.458,2022,Japan,Pit-Stop-Summary,LAT
-2,5,Sebastian Vettel,Aston Martin Aramco Mercedes,5,16:23:58,24.218,7:13.865,2022,Japan,Pit-Stop-Summary,VET
-2,4,Lando Norris,McLaren Mercedes,6,16:25:53,24.595,7:10.851,2022,Japan,Pit-Stop-Summary,NOR
-2,77,Valtteri Bottas,Alfa Romeo Ferrari,6,16:25:56,24.869,7:12.422,2022,Japan,Pit-Stop-Summary,BOT
-2,1,Max Verstappen,Red Bull Racing RBPT,7,16:27:26,24.308,6:51.707,2022,Japan,Pit-Stop-Summary,VER
-2,16,Charles Leclerc,Ferrari,7,16:27:27,25.899,6:55.872,2022,Japan,Pit-Stop-Summary,LEC
-2,11,Sergio Perez,Red Bull Racing RBPT,7,16:27:32,25.322,6:57.839,2022,Japan,Pit-Stop-Summary,PER
-2,31,Esteban Ocon,Alpine Renault,7,16:27:34,25.172,6:58.773,2022,Japan,Pit-Stop-Summary,OCO
-2,44,Lewis Hamilton,Mercedes,7,16:27:36,25.059,7:01.563,2022,Japan,Pit-Stop-Summary,HAM
-2,63,George Russell,Mercedes,7,16:27:40,28.728,7:09.785,2022,Japan,Pit-Stop-Summary,RUS
-2,22,Yuki Tsunoda,AlphaTauri RBPT,7,16:27:44,24.439,7:06.917,2022,Japan,Pit-Stop-Summary,TSU
-2,20,Kevin Magnussen,Haas Ferrari,7,16:27:47,25.594,7:07.623,2022,Japan,Pit-Stop-Summary,MAG
-2,18,Lance Stroll,Aston Martin Aramco Mercedes,7,16:27:48,24.005,7:04.468,2022,Japan,Pit-Stop-Summary,STR
-3,10,Pierre Gasly,AlphaTauri RBPT,7,16:27:52,24.966,7:55.296,2022,Japan,Pit-Stop-Summary,GAS
-2,14,Fernando Alonso,Alpine Renault,8,16:29:28,24.106,7:00.943,2022,Japan,Pit-Stop-Summary,ALO
-2,3,Daniel Ricciardo,McLaren Mercedes,8,16:29:36,25.377,7:07.126,2022,Japan,Pit-Stop-Summary,RIC
-2,24,Zhou Guanyu,Alfa Romeo Ferrari,9,16:31:37,24.563,7:14.568,2022,Japan,Pit-Stop-Summary,ZHO
-2,47,Mick Schumacher,Haas Ferrari,11,16:35:25,24.608,7:05.465,2022,Japan,Pit-Stop-Summary,MSC
-3,24,Zhou Guanyu,Alfa Romeo Ferrari,18,16:48:24,24.266,7:38.834,2022,Japan,Pit-Stop-Summary,ZHO
-3,18,Lance Stroll,Aston Martin Aramco Mercedes,19,16:50:04,23.870,7:28.338,2022,Japan,Pit-Stop-Summary,STR
-4,10,Pierre Gasly,AlphaTauri RBPT,19,16:50:13,23.966,8:19.262,2022,Japan,Pit-Stop-Summary,GAS
-3,22,Yuki Tsunoda,AlphaTauri RBPT,20,16:51:53,23.756,7:30.673,2022,Japan,Pit-Stop-Summary,TSU
-3,14,Fernando Alonso,Alpine Renault,22,16:55:11,24.123,7:25.066,2022,Japan,Pit-Stop-Summary,ALO
+1,6,Nicholas Latifi,Williams Mercedes,5,14:12:42,25.321,25.321,2022,United States,Pit-Stop-Summary,LAT
+1,23,Alexander Albon,Williams Mercedes,9,14:19:29,24.624,24.624,2022,United States,Pit-Stop-Summary,ALB
+1,24,Zhou Guanyu,Alfa Romeo Ferrari,9,14:19:31,27.326,27.326,2022,United States,Pit-Stop-Summary,ZHO
+1,77,Valtteri Bottas,Alfa Romeo Ferrari,10,14:21:08,25.013,25.013,2022,United States,Pit-Stop-Summary,BOT
+1,22,Yuki Tsunoda,AlphaTauri RBPT,10,14:21:14,23.688,23.688,2022,United States,Pit-Stop-Summary,TSU
+1,3,Daniel Ricciardo,McLaren Mercedes,10,14:21:17,26.206,26.206,2022,United States,Pit-Stop-Summary,RIC
+1,10,Pierre Gasly,AlphaTauri RBPT,11,14:22:51,23.67,23.670,2022,United States,Pit-Stop-Summary,GAS
+1,44,Lewis Hamilton,Mercedes,12,14:24:13,24.362,24.362,2022,United States,Pit-Stop-Summary,HAM
+1,1,Max Verstappen,Red Bull Racing RBPT,13,14:25:50,23.866,23.866,2022,United States,Pit-Stop-Summary,VER
+1,63,George Russell,Mercedes,13,14:26:03,30.038,30.038,2022,United States,Pit-Stop-Summary,RUS
+1,11,Sergio Perez,Red Bull Racing RBPT,14,14:27:47,23.403,23.403,2022,United States,Pit-Stop-Summary,PER
+1,4,Lando Norris,McLaren Mercedes,14,14:28:05,24.026,24.026,2022,United States,Pit-Stop-Summary,NOR
+1,18,Lance Stroll,Aston Martin Aramco Mercedes,15,14:29:39,25.417,25.417,2022,United States,Pit-Stop-Summary,STR
+1,16,Charles Leclerc,Ferrari,18,14:34:58,24.314,24.314,2022,United States,Pit-Stop-Summary,LEC
+1,5,Sebastian Vettel,Aston Martin Aramco Mercedes,18,14:35:06,24.307,24.307,2022,United States,Pit-Stop-Summary,VET
+1,14,Fernando Alonso,Alpine Renault,18,14:35:26,23.87,23.870,2022,United States,Pit-Stop-Summary,ALO
+1,31,Esteban Ocon,Alpine Renault,18,14:35:37,24.816,24.816,2022,United States,Pit-Stop-Summary,OCO
+1,47,Mick Schumacher,Haas Ferrari,18,14:35:37,25.209,25.209,2022,United States,Pit-Stop-Summary,MSC
+1,20,Kevin Magnussen,Haas Ferrari,18,14:35:42,29.039,29.039,2022,United States,Pit-Stop-Summary,MAG
+2,23,Alexander Albon,Williams Mercedes,18,14:35:50,24.311,48.935,2022,United States,Pit-Stop-Summary,ALB
+2,6,Nicholas Latifi,Williams Mercedes,18,14:36:12,24.195,49.516,2022,United States,Pit-Stop-Summary,LAT
+2,14,Fernando Alonso,Alpine Renault,22,14:45:23,39.707,1:03.577,2022,United States,Pit-Stop-Summary,ALO
+2,24,Zhou Guanyu,Alfa Romeo Ferrari,23,14:48:10,25.015,52.341,2022,United States,Pit-Stop-Summary,ZHO
+2,10,Pierre Gasly,AlphaTauri RBPT,32,15:05:32,28.918,52.588,2022,United States,Pit-Stop-Summary,GAS
+2,22,Yuki Tsunoda,AlphaTauri RBPT,33,15:07:16,23.241,46.929,2022,United States,Pit-Stop-Summary,TSU
+2,47,Mick Schumacher,Haas Ferrari,33,15:07:18,24.651,49.860,2022,United States,Pit-Stop-Summary,MSC
+2,44,Lewis Hamilton,Mercedes,34,15:08:39,24.135,48.497,2022,United States,Pit-Stop-Summary,HAM
+2,4,Lando Norris,McLaren Mercedes,34,15:08:59,23.702,47.728,2022,United States,Pit-Stop-Summary,NOR
+2,1,Max Verstappen,Red Bull Racing RBPT,35,15:10:18,32.254,56.120,2022,United States,Pit-Stop-Summary,VER
+2,16,Charles Leclerc,Ferrari,35,15:10:26,23.755,48.069,2022,United States,Pit-Stop-Summary,LEC
+2,3,Daniel Ricciardo,McLaren Mercedes,35,15:10:56,24.436,50.642,2022,United States,Pit-Stop-Summary,RIC
+2,63,George Russell,Mercedes,36,15:12:10,24.509,54.547,2022,United States,Pit-Stop-Summary,RUS
+2,11,Sergio Perez,Red Bull Racing RBPT,38,15:15:33,24.801,48.204,2022,United States,Pit-Stop-Summary,PER
+2,5,Sebastian Vettel,Aston Martin Aramco Mercedes,41,15:20:46,38.157,1:02.464,2022,United States,Pit-Stop-Summary,VET
+2,31,Esteban Ocon,Alpine Renault,45,15:28:05,24.711,49.527,2022,United States,Pit-Stop-Summary,OCO
+3,63,George Russell,Mercedes,54,15:42:52,23.947,1:18.494,2022,United States,Pit-Stop-Summary,RUS
+1,18,Lance Stroll,Aston Martin Aramco Mercedes,17,14:27:31,23.509,23.509,2022,Mexico,Pit-Stop-Summary,STR
+1,11,Sergio Perez,Red Bull Racing RBPT,23,14:35:10,24.892,24.892,2022,Mexico,Pit-Stop-Summary,PER
+1,6,Nicholas Latifi,Williams Mercedes,23,14:36:14,23.826,23.826,2022,Mexico,Pit-Stop-Summary,LAT
+1,47,Mick Schumacher,Haas Ferrari,24,14:37:37,23.679,23.679,2022,Mexico,Pit-Stop-Summary,MSC
+1,1,Max Verstappen,Red Bull Racing RBPT,25,14:37:51,22.487,22.487,2022,Mexico,Pit-Stop-Summary,VER
+1,16,Charles Leclerc,Ferrari,28,14:42:33,22.193,22.193,2022,Mexico,Pit-Stop-Summary,LEC
+1,44,Lewis Hamilton,Mercedes,29,14:43:26,23.194,23.194,2022,Mexico,Pit-Stop-Summary,HAM
+1,55,Carlos Sainz,Ferrari,29,14:43:52,23.469,23.469,2022,Mexico,Pit-Stop-Summary,SAI
+1,22,Yuki Tsunoda,AlphaTauri RBPT,29,14:44:16,22.468,22.468,2022,Mexico,Pit-Stop-Summary,TSU
+1,4,Lando Norris,McLaren Mercedes,31,14:47:02,22.585,22.585,2022,Mexico,Pit-Stop-Summary,NOR
+1,31,Esteban Ocon,Alpine Renault,33,14:49:47,22.343,22.343,2022,Mexico,Pit-Stop-Summary,OCO
+1,63,George Russell,Mercedes,34,14:50:27,22.795,22.795,2022,Mexico,Pit-Stop-Summary,RUS
+1,5,Sebastian Vettel,Aston Martin Aramco Mercedes,38,14:57:10,22.534,22.534,2022,Mexico,Pit-Stop-Summary,VET
+1,23,Alexander Albon,Williams Mercedes,38,14:57:16,23.182,23.182,2022,Mexico,Pit-Stop-Summary,ALB
+1,20,Kevin Magnussen,Haas Ferrari,38,14:57:34,23.722,23.722,2022,Mexico,Pit-Stop-Summary,MAG
+1,77,Valtteri Bottas,Alfa Romeo Ferrari,39,14:58:09,23.863,23.863,2022,Mexico,Pit-Stop-Summary,BOT
+1,14,Fernando Alonso,Alpine Renault,40,14:59:30,23.159,23.159,2022,Mexico,Pit-Stop-Summary,ALO
+1,10,Pierre Gasly,AlphaTauri RBPT,40,15:00:02,29.168,29.168,2022,Mexico,Pit-Stop-Summary,GAS
+2,18,Lance Stroll,Aston Martin Aramco Mercedes,40,15:00:20,23.119,46.628,2022,Mexico,Pit-Stop-Summary,STR
+1,3,Daniel Ricciardo,McLaren Mercedes,44,15:05:25,22.28,22.28,2022,Mexico,Pit-Stop-Summary,RIC
+1,24,Zhou Guanyu,Alfa Romeo Ferrari,45,15:07:02,24.218,24.218,2022,Mexico,Pit-Stop-Summary,ZHO
+2,6,Nicholas Latifi,Williams Mercedes,52,15:17:55,24.039,47.865,2022,Mexico,Pit-Stop-Summary,LAT
+2,63,George Russell,Mercedes,69,15:39:22,23.118,45.913,2022,Mexico,Pit-Stop-Summary,RUS
+1,23,Alexander Albon,Williams Mercedes,4,15:10:31,24.361,24.361,2022,Brazil,Pit-Stop-Summary,ALB
+1,1,Max Verstappen,Red Bull Racing RBPT,7,15:15:34,30.942,30.942,2022,Brazil,Pit-Stop-Summary,VER
+1,16,Charles Leclerc,Ferrari,7,15:15:42,30.08,30.080,2022,Brazil,Pit-Stop-Summary,LEC
+1,14,Fernando Alonso,Alpine Renault,14,15:24:40,23.478,23.478,2022,Brazil,Pit-Stop-Summary,ALO
+1,24,Zhou Guanyu,Alfa Romeo Ferrari,16,15:27:16,24.332,24.332,2022,Brazil,Pit-Stop-Summary,ZHO
+1,55,Carlos Sainz,Ferrari,17,15:28:17,25.206,25.206,2022,Brazil,Pit-Stop-Summary,SAI
+1,10,Pierre Gasly,AlphaTauri RBPT,19,15:31:04,23.46,23.460,2022,Brazil,Pit-Stop-Summary,GAS
+1,22,Yuki Tsunoda,AlphaTauri RBPT,20,15:32:36,23.287,23.287,2022,Brazil,Pit-Stop-Summary,TSU
+1,6,Nicholas Latifi,Williams Mercedes,20,15:32:40,28.807,28.807,2022,Brazil,Pit-Stop-Summary,LAT
+2,16,Charles Leclerc,Ferrari,21,15:34:01,23.172,53.252,2022,Brazil,Pit-Stop-Summary,LEC
+1,11,Sergio Perez,Red Bull Racing RBPT,23,15:35:54,22.869,22.869,2022,Brazil,Pit-Stop-Summary,PER
+2,1,Max Verstappen,Red Bull Racing RBPT,23,15:36:31,31.682,1:02.624,2022,Brazil,Pit-Stop-Summary,VER
+1,63,George Russell,Mercedes,24,15:37:06,23.521,23.521,2022,Brazil,Pit-Stop-Summary,RUS
+1,4,Lando Norris,McLaren Mercedes,24,15:37:31,29.338,29.338,2022,Brazil,Pit-Stop-Summary,NOR
+1,77,Valtteri Bottas,Alfa Romeo Ferrari,24,15:37:32,23.908,23.908,2022,Brazil,Pit-Stop-Summary,BOT
+1,31,Esteban Ocon,Alpine Renault,24,15:37:35,23.868,23.868,2022,Brazil,Pit-Stop-Summary,OCO
+1,47,Mick Schumacher,Haas Ferrari,24,15:37:40,24.487,24.487,2022,Brazil,Pit-Stop-Summary,MSC
+2,23,Alexander Albon,Williams Mercedes,25,15:39:08,23.352,47.713,2022,Brazil,Pit-Stop-Summary,ALB
+1,5,Sebastian Vettel,Aston Martin Aramco Mercedes,26,15:40:04,24.248,24.248,2022,Brazil,Pit-Stop-Summary,VET
+1,44,Lewis Hamilton,Mercedes,29,15:43:41,24.081,24.081,2022,Brazil,Pit-Stop-Summary,HAM
+1,18,Lance Stroll,Aston Martin Aramco Mercedes,29,15:44:14,23.469,23.469,2022,Brazil,Pit-Stop-Summary,STR
+2,6,Nicholas Latifi,Williams Mercedes,32,15:48:45,24.292,53.099,2022,Brazil,Pit-Stop-Summary,LAT
+2,14,Fernando Alonso,Alpine Renault,35,15:51:56,28.855,52.333,2022,Brazil,Pit-Stop-Summary,ALO
+2,10,Pierre Gasly,AlphaTauri RBPT,35,15:52:05,23.328,46.788,2022,Brazil,Pit-Stop-Summary,GAS
+2,55,Carlos Sainz,Ferrari,36,15:52:50,23.483,48.689,2022,Brazil,Pit-Stop-Summary,SAI
+2,24,Zhou Guanyu,Alfa Romeo Ferrari,37,15:54:45,25.111,49.443,2022,Brazil,Pit-Stop-Summary,ZHO
+2,22,Yuki Tsunoda,AlphaTauri RBPT,40,15:58:47,23.645,46.932,2022,Brazil,Pit-Stop-Summary,TSU
+3,16,Charles Leclerc,Ferrari,44,16:03:38,23.124,1:16.376,2022,Brazil,Pit-Stop-Summary,LEC
+2,77,Valtteri Bottas,Alfa Romeo Ferrari,45,16:04:45,24.616,48.524,2022,Brazil,Pit-Stop-Summary,BOT
+2,5,Sebastian Vettel,Aston Martin Aramco Mercedes,45,16:04:49,24.028,48.276,2022,Brazil,Pit-Stop-Summary,VET
+2,4,Lando Norris,McLaren Mercedes,45,16:04:59,24.669,54.007,2022,Brazil,Pit-Stop-Summary,NOR
+2,47,Mick Schumacher,Haas Ferrari,46,16:06:22,25.156,49.643,2022,Brazil,Pit-Stop-Summary,MSC
+2,11,Sergio Perez,Red Bull Racing RBPT,47,16:06:49,23.152,46.021,2022,Brazil,Pit-Stop-Summary,PER
+2,31,Esteban Ocon,Alpine Renault,47,16:07:25,24.445,48.313,2022,Brazil,Pit-Stop-Summary,OCO
+3,23,Alexander Albon,Williams Mercedes,47,16:07:54,23.322,1:11.035,2022,Brazil,Pit-Stop-Summary,ALB
+2,44,Lewis Hamilton,Mercedes,48,16:08:02,23.415,47.496,2022,Brazil,Pit-Stop-Summary,HAM
+3,1,Max Verstappen,Red Bull Racing RBPT,48,16:08:48,24.102,1:26.726,2022,Brazil,Pit-Stop-Summary,VER
+2,18,Lance Stroll,Aston Martin Aramco Mercedes,48,16:08:59,23.764,47.233,2022,Brazil,Pit-Stop-Summary,STR
+2,63,George Russell,Mercedes,49,16:09:08,23.48,47.001,2022,Brazil,Pit-Stop-Summary,RUS
+3,14,Fernando Alonso,Alpine Renault,52,16:13:58,23.79,1:16.123,2022,Brazil,Pit-Stop-Summary,ALO
+3,10,Pierre Gasly,AlphaTauri RBPT,52,16:14:19,23.009,1:09.797,2022,Brazil,Pit-Stop-Summary,GAS
+3,55,Carlos Sainz,Ferrari,53,16:14:50,23.816,1:12.505,2022,Brazil,Pit-Stop-Summary,SAI
+3,6,Nicholas Latifi,Williams Mercedes,52,16:15:23,23.64,1:16.739,2022,Brazil,Pit-Stop-Summary,LAT
+3,22,Yuki Tsunoda,AlphaTauri RBPT,54,16:18:28,23.635,1:10.567,2022,Brazil,Pit-Stop-Summary,TSU
+1,23,Alexander Albon,Williams Mercedes,12,17:21:53,21.793,21.793,2022,Abu Dhabi,Pit-Stop-Summary,ALB
+1,18,Lance Stroll,Aston Martin Aramco Mercedes,13,17:23:19,21.814,21.814,2022,Abu Dhabi,Pit-Stop-Summary,STR
+1,31,Esteban Ocon,Alpine Renault,14,17:24:48,21.895,21.895,2022,Abu Dhabi,Pit-Stop-Summary,OCO
+1,22,Yuki Tsunoda,AlphaTauri RBPT,14,17:24:50,21.591,21.591,2022,Abu Dhabi,Pit-Stop-Summary,TSU
+1,47,Mick Schumacher,Haas Ferrari,14,17:24:59,22.276,22.276,2022,Abu Dhabi,Pit-Stop-Summary,MSC
+1,10,Pierre Gasly,AlphaTauri RBPT,14,17:25:03,21.855,21.855,2022,Abu Dhabi,Pit-Stop-Summary,GAS
+1,11,Sergio Perez,Red Bull Racing RBPT,15,17:26:00,21.36,21.36,2022,Abu Dhabi,Pit-Stop-Summary,PER
+1,63,George Russell,Mercedes,15,17:26:08,24.243,24.243,2022,Abu Dhabi,Pit-Stop-Summary,RUS
+1,4,Lando Norris,McLaren Mercedes,15,17:26:16,22.234,22.234,2022,Abu Dhabi,Pit-Stop-Summary,NOR
+1,24,Zhou Guanyu,Alfa Romeo Ferrari,15,17:26:28,22.435,22.435,2022,Abu Dhabi,Pit-Stop-Summary,ZHO
+1,6,Nicholas Latifi,Williams Mercedes,15,17:26:44,22.423,22.423,2022,Abu Dhabi,Pit-Stop-Summary,LAT
+1,55,Carlos Sainz,Ferrari,17,17:29:08,21.93,21.93,2022,Abu Dhabi,Pit-Stop-Summary,SAI
+1,44,Lewis Hamilton,Mercedes,18,17:30:48,21.27,21.27,2022,Abu Dhabi,Pit-Stop-Summary,HAM
+1,14,Fernando Alonso,Alpine Renault,19,17:32:33,21.74,21.74,2022,Abu Dhabi,Pit-Stop-Summary,ALO
+1,3,Daniel Ricciardo,McLaren Mercedes,19,17:32:38,21.893,21.893,2022,Abu Dhabi,Pit-Stop-Summary,RIC
+1,1,Max Verstappen,Red Bull Racing RBPT,20,17:33:31,22.735,22.735,2022,Abu Dhabi,Pit-Stop-Summary,VER
+1,16,Charles Leclerc,Ferrari,21,17:35:10,22.21,22.21,2022,Abu Dhabi,Pit-Stop-Summary,LEC
+1,5,Sebastian Vettel,Aston Martin Aramco Mercedes,25,17:41:51,23.186,23.186,2022,Abu Dhabi,Pit-Stop-Summary,VET
+1,20,Kevin Magnussen,Haas Ferrari,28,17:46:53,22.387,22.387,2022,Abu Dhabi,Pit-Stop-Summary,MAG
+1,77,Valtteri Bottas,Alfa Romeo Ferrari,30,17:49:54,22.573,22.573,2022,Abu Dhabi,Pit-Stop-Summary,BOT
+2,11,Sergio Perez,Red Bull Racing RBPT,33,17:53:33,21.367,42.727,2022,Abu Dhabi,Pit-Stop-Summary,PER
+2,47,Mick Schumacher,Haas Ferrari,34,17:55:56,23.53,45.806,2022,Abu Dhabi,Pit-Stop-Summary,MSC
+2,23,Alexander Albon,Williams Mercedes,35,17:57:22,21.798,43.591,2022,Abu Dhabi,Pit-Stop-Summary,ALB
+2,22,Yuki Tsunoda,AlphaTauri RBPT,38,18:01:49,22.262,43.853,2022,Abu Dhabi,Pit-Stop-Summary,TSU
+2,55,Carlos Sainz,Ferrari,39,18:02:41,21.575,43.505,2022,Abu Dhabi,Pit-Stop-Summary,SAI
+2,63,George Russell,Mercedes,39,18:02:44,27.931,52.174,2022,Abu Dhabi,Pit-Stop-Summary,RUS
+2,6,Nicholas Latifi,Williams Mercedes,38,18:02:50,25.174,47.597,2022,Abu Dhabi,Pit-Stop-Summary,LAT
+2,18,Lance Stroll,Aston Martin Aramco Mercedes,40,18:04:44,21.802,43.616,2022,Abu Dhabi,Pit-Stop-Summary,STR
+2,31,Esteban Ocon,Alpine Renault,41,18:06:09,21.734,43.629,2022,Abu Dhabi,Pit-Stop-Summary,OCO
+2,4,Lando Norris,McLaren Mercedes,42,18:07:36,21.559,43.793,2022,Abu Dhabi,Pit-Stop-Summary,NOR
+2,24,Zhou Guanyu,Alfa Romeo Ferrari,44,18:11:10,23.159,45.594,2022,Abu Dhabi,Pit-Stop-Summary,ZHO

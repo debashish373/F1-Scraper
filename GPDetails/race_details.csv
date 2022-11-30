@@ -23837,26 +23837,6 @@ NC,3,Daniel Ricciardo,McLaren Mercedes,45.0,DNF,0.0,2022,Italy,Race-Result,RIC
 NC,18,Lance Stroll,Aston Martin Aramco Mercedes,39.0,DNF,0.0,2022,Italy,Race-Result,STR
 NC,14,Fernando Alonso,Alpine Renault,31.0,DNF,0.0,2022,Italy,Race-Result,ALO
 NC,5,Sebastian Vettel,Aston Martin Aramco Mercedes,10.0,DNF,0.0,2022,Italy,Race-Result,VET
-1,1,Max Verstappen,Red Bull Racing RBPT,70.0,1:39:35.912,25.0,2022,Hungary,Race-Result,VER
-2,44,Lewis Hamilton,Mercedes,70.0,+7.834s,19.0,2022,Hungary,Race-Result,HAM
-3,63,George Russell,Mercedes,70.0,+12.337s,15.0,2022,Hungary,Race-Result,RUS
-4,55,Carlos Sainz,Ferrari,70.0,+14.579s,12.0,2022,Hungary,Race-Result,SAI
-5,11,Sergio Perez,Red Bull Racing RBPT,70.0,+15.688s,10.0,2022,Hungary,Race-Result,PER
-6,16,Charles Leclerc,Ferrari,70.0,+16.047s,8.0,2022,Hungary,Race-Result,LEC
-7,4,Lando Norris,McLaren Mercedes,70.0,+78.300s,6.0,2022,Hungary,Race-Result,NOR
-8,14,Fernando Alonso,Alpine Renault,69.0,+1 lap,4.0,2022,Hungary,Race-Result,ALO
-9,31,Esteban Ocon,Alpine Renault,69.0,+1 lap,2.0,2022,Hungary,Race-Result,OCO
-10,5,Sebastian Vettel,Aston Martin Aramco Mercedes,69.0,+1 lap,1.0,2022,Hungary,Race-Result,VET
-11,18,Lance Stroll,Aston Martin Aramco Mercedes,69.0,+1 lap,0.0,2022,Hungary,Race-Result,STR
-12,10,Pierre Gasly,AlphaTauri RBPT,69.0,+1 lap,0.0,2022,Hungary,Race-Result,GAS
-13,24,Zhou Guanyu,Alfa Romeo Ferrari,69.0,+1 lap,0.0,2022,Hungary,Race-Result,ZHO
-14,47,Mick Schumacher,Haas Ferrari,69.0,+1 lap,0.0,2022,Hungary,Race-Result,MSC
-15,3,Daniel Ricciardo,McLaren Mercedes,69.0,+1 lap,0.0,2022,Hungary,Race-Result,RIC
-16,20,Kevin Magnussen,Haas Ferrari,69.0,+1 lap,0.0,2022,Hungary,Race-Result,MAG
-17,23,Alexander Albon,Williams Mercedes,69.0,+1 lap,0.0,2022,Hungary,Race-Result,ALB
-18,6,Nicholas Latifi,Williams Mercedes,69.0,+1 lap,0.0,2022,Hungary,Race-Result,LAT
-19,22,Yuki Tsunoda,AlphaTauri RBPT,68.0,+2 laps,0.0,2022,Hungary,Race-Result,TSU
-20,77,Valtteri Bottas,Alfa Romeo Ferrari,65.0,DNF,0.0,2022,Hungary,Race-Result,BOT
 1,11,Sergio Perez,Red Bull Racing RBPT,59.0,2:02:20.238,25.0,2022,Singapore,Race-Result,PER
 2,16,Charles Leclerc,Ferrari,59.0,+2.595s,18.0,2022,Singapore,Race-Result,LEC
 3,55,Carlos Sainz,Ferrari,59.0,+10.305s,15.0,2022,Singapore,Race-Result,SAI
@@ -23897,3 +23877,103 @@ NC,24,Zhou Guanyu,Alfa Romeo Ferrari,6.0,DNF,0.0,2022,Singapore,Race-Result,ZHO
 18,10,Pierre Gasly,AlphaTauri RBPT,28.0,+108.091s,0.0,2022,Japan,Race-Result,GAS
 NC,55,Carlos Sainz,Ferrari,0.0,DNF,0.0,2022,Japan,Race-Result,SAI
 NC,23,Alexander Albon,Williams Mercedes,0.0,DNF,0.0,2022,Japan,Race-Result,ALB
+1,1,Max Verstappen,Red Bull Racing RBPT,56.0,1:42:11.687,25.0,2022,United States,Race-Result,VER
+2,44,Lewis Hamilton,Mercedes,56.0,+5.023s,18.0,2022,United States,Race-Result,HAM
+3,16,Charles Leclerc,Ferrari,56.0,+7.501s,15.0,2022,United States,Race-Result,LEC
+4,11,Sergio Perez,Red Bull Racing RBPT,56.0,+8.293s,12.0,2022,United States,Race-Result,PER
+5,63,George Russell,Mercedes,56.0,+44.815s,11.0,2022,United States,Race-Result,RUS
+6,4,Lando Norris,McLaren Mercedes,56.0,+53.785s,8.0,2022,United States,Race-Result,NOR
+7,14,Fernando Alonso,Alpine Renault,56.0,+55.078s,6.0,2022,United States,Race-Result,ALO
+8,5,Sebastian Vettel,Aston Martin Aramco Mercedes,56.0,+65.354s,4.0,2022,United States,Race-Result,VET
+9,20,Kevin Magnussen,Haas Ferrari,56.0,+65.834s,2.0,2022,United States,Race-Result,MAG
+10,22,Yuki Tsunoda,AlphaTauri RBPT,56.0,+70.919s,1.0,2022,United States,Race-Result,TSU
+11,31,Esteban Ocon,Alpine Renault,56.0,+72.875s,0.0,2022,United States,Race-Result,OCO
+12,24,Zhou Guanyu,Alfa Romeo Ferrari,56.0,+76.164s,0.0,2022,United States,Race-Result,ZHO
+13,23,Alexander Albon,Williams Mercedes,56.0,+80.057s,0.0,2022,United States,Race-Result,ALB
+14,10,Pierre Gasly,AlphaTauri RBPT,56.0,+81.763s,0.0,2022,United States,Race-Result,GAS
+15,47,Mick Schumacher,Haas Ferrari,56.0,+84.490s,0.0,2022,United States,Race-Result,MSC
+16,3,Daniel Ricciardo,McLaren Mercedes,56.0,+90.487s,0.0,2022,United States,Race-Result,RIC
+17,6,Nicholas Latifi,Williams Mercedes,56.0,+103.588s,0.0,2022,United States,Race-Result,LAT
+NC,18,Lance Stroll,Aston Martin Aramco Mercedes,21.0,DNF,0.0,2022,United States,Race-Result,STR
+NC,77,Valtteri Bottas,Alfa Romeo Ferrari,16.0,DNF,0.0,2022,United States,Race-Result,BOT
+NC,55,Carlos Sainz,Ferrari,1.0,DNF,0.0,2022,United States,Race-Result,SAI
+1,1,Max Verstappen,Red Bull Racing RBPT,71.0,1:38:36.729,25.0,2022,Mexico,Race-Result,VER
+2,44,Lewis Hamilton,Mercedes,71.0,+15.186s,18.0,2022,Mexico,Race-Result,HAM
+3,11,Sergio Perez,Red Bull Racing RBPT,71.0,+18.097s,15.0,2022,Mexico,Race-Result,PER
+4,63,George Russell,Mercedes,71.0,+49.431s,13.0,2022,Mexico,Race-Result,RUS
+5,55,Carlos Sainz,Ferrari,71.0,+58.123s,10.0,2022,Mexico,Race-Result,SAI
+6,16,Charles Leclerc,Ferrari,71.0,+68.774s,8.0,2022,Mexico,Race-Result,LEC
+7,3,Daniel Ricciardo,McLaren Mercedes,70.0,+1 lap,6.0,2022,Mexico,Race-Result,RIC
+8,31,Esteban Ocon,Alpine Renault,70.0,+1 lap,4.0,2022,Mexico,Race-Result,OCO
+9,4,Lando Norris,McLaren Mercedes,70.0,+1 lap,2.0,2022,Mexico,Race-Result,NOR
+10,77,Valtteri Bottas,Alfa Romeo Ferrari,70.0,+1 lap,1.0,2022,Mexico,Race-Result,BOT
+11,10,Pierre Gasly,AlphaTauri RBPT,70.0,+1 lap,0.0,2022,Mexico,Race-Result,GAS
+12,23,Alexander Albon,Williams Mercedes,70.0,+1 lap,0.0,2022,Mexico,Race-Result,ALB
+13,24,Zhou Guanyu,Alfa Romeo Ferrari,70.0,+1 lap,0.0,2022,Mexico,Race-Result,ZHO
+14,5,Sebastian Vettel,Aston Martin Aramco Mercedes,70.0,+1 lap,0.0,2022,Mexico,Race-Result,VET
+15,18,Lance Stroll,Aston Martin Aramco Mercedes,70.0,+1 lap,0.0,2022,Mexico,Race-Result,STR
+16,47,Mick Schumacher,Haas Ferrari,70.0,+1 lap,0.0,2022,Mexico,Race-Result,MSC
+17,20,Kevin Magnussen,Haas Ferrari,70.0,+1 lap,0.0,2022,Mexico,Race-Result,MAG
+18,6,Nicholas Latifi,Williams Mercedes,69.0,+2 laps,0.0,2022,Mexico,Race-Result,LAT
+19,14,Fernando Alonso,Alpine Renault,63.0,DNF,0.0,2022,Mexico,Race-Result,ALO
+NC,22,Yuki Tsunoda,AlphaTauri RBPT,50.0,DNF,0.0,2022,Mexico,Race-Result,TSU
+1,1,Max Verstappen,Red Bull Racing RBPT,70.0,1:39:35.912,25.0,2022,Hungary,Race-Result,VER
+2,44,Lewis Hamilton,Mercedes,70.0,+7.834s,19.0,2022,Hungary,Race-Result,HAM
+3,63,George Russell,Mercedes,70.0,+12.337s,15.0,2022,Hungary,Race-Result,RUS
+4,55,Carlos Sainz,Ferrari,70.0,+14.579s,12.0,2022,Hungary,Race-Result,SAI
+5,11,Sergio Perez,Red Bull Racing RBPT,70.0,+15.688s,10.0,2022,Hungary,Race-Result,PER
+6,16,Charles Leclerc,Ferrari,70.0,+16.047s,8.0,2022,Hungary,Race-Result,LEC
+7,4,Lando Norris,McLaren Mercedes,70.0,+78.300s,6.0,2022,Hungary,Race-Result,NOR
+8,14,Fernando Alonso,Alpine Renault,69.0,+1 lap,4.0,2022,Hungary,Race-Result,ALO
+9,31,Esteban Ocon,Alpine Renault,69.0,+1 lap,2.0,2022,Hungary,Race-Result,OCO
+10,5,Sebastian Vettel,Aston Martin Aramco Mercedes,69.0,+1 lap,1.0,2022,Hungary,Race-Result,VET
+11,18,Lance Stroll,Aston Martin Aramco Mercedes,69.0,+1 lap,0.0,2022,Hungary,Race-Result,STR
+12,10,Pierre Gasly,AlphaTauri RBPT,69.0,+1 lap,0.0,2022,Hungary,Race-Result,GAS
+13,24,Zhou Guanyu,Alfa Romeo Ferrari,69.0,+1 lap,0.0,2022,Hungary,Race-Result,ZHO
+14,47,Mick Schumacher,Haas Ferrari,69.0,+1 lap,0.0,2022,Hungary,Race-Result,MSC
+15,3,Daniel Ricciardo,McLaren Mercedes,69.0,+1 lap,0.0,2022,Hungary,Race-Result,RIC
+16,20,Kevin Magnussen,Haas Ferrari,69.0,+1 lap,0.0,2022,Hungary,Race-Result,MAG
+17,23,Alexander Albon,Williams Mercedes,69.0,+1 lap,0.0,2022,Hungary,Race-Result,ALB
+18,6,Nicholas Latifi,Williams Mercedes,69.0,+1 lap,0.0,2022,Hungary,Race-Result,LAT
+19,22,Yuki Tsunoda,AlphaTauri RBPT,68.0,+2 laps,0.0,2022,Hungary,Race-Result,TSU
+20,77,Valtteri Bottas,Alfa Romeo Ferrari,65.0,DNF,0.0,2022,Hungary,Race-Result,BOT
+1,63,George Russell,Mercedes,71.0,1:38:34.044,26.0,2022,Brazil,Race-Result,RUS
+2,44,Lewis Hamilton,Mercedes,71.0,+1.529s,18.0,2022,Brazil,Race-Result,HAM
+3,55,Carlos Sainz,Ferrari,71.0,+4.051s,15.0,2022,Brazil,Race-Result,SAI
+4,16,Charles Leclerc,Ferrari,71.0,+8.441s,12.0,2022,Brazil,Race-Result,LEC
+5,14,Fernando Alonso,Alpine Renault,71.0,+9.561s,10.0,2022,Brazil,Race-Result,ALO
+6,1,Max Verstappen,Red Bull Racing RBPT,71.0,+10.056s,8.0,2022,Brazil,Race-Result,VER
+7,11,Sergio Perez,Red Bull Racing RBPT,71.0,+14.080s,6.0,2022,Brazil,Race-Result,PER
+8,31,Esteban Ocon,Alpine Renault,71.0,+18.690s,4.0,2022,Brazil,Race-Result,OCO
+9,77,Valtteri Bottas,Alfa Romeo Ferrari,71.0,+22.552s,2.0,2022,Brazil,Race-Result,BOT
+10,18,Lance Stroll,Aston Martin Aramco Mercedes,71.0,+23.552s,1.0,2022,Brazil,Race-Result,STR
+11,5,Sebastian Vettel,Aston Martin Aramco Mercedes,71.0,+26.183s,0.0,2022,Brazil,Race-Result,VET
+12,24,Zhou Guanyu,Alfa Romeo Ferrari,71.0,+29.325s,0.0,2022,Brazil,Race-Result,ZHO
+13,47,Mick Schumacher,Haas Ferrari,71.0,+29.899s,0.0,2022,Brazil,Race-Result,MSC
+14,10,Pierre Gasly,AlphaTauri RBPT,71.0,+31.867s,0.0,2022,Brazil,Race-Result,GAS
+15,23,Alexander Albon,Williams Mercedes,71.0,+36.016s,0.0,2022,Brazil,Race-Result,ALB
+16,6,Nicholas Latifi,Williams Mercedes,71.0,+37.038s,0.0,2022,Brazil,Race-Result,LAT
+17,22,Yuki Tsunoda,AlphaTauri RBPT,70.0,+1 lap,0.0,2022,Brazil,Race-Result,TSU
+NC,4,Lando Norris,McLaren Mercedes,50.0,DNF,0.0,2022,Brazil,Race-Result,NOR
+NC,20,Kevin Magnussen,Haas Ferrari,0.0,DNF,0.0,2022,Brazil,Race-Result,MAG
+NC,3,Daniel Ricciardo,McLaren Mercedes,0.0,DNF,0.0,2022,Brazil,Race-Result,RIC
+1,1,Max Verstappen,Red Bull Racing RBPT,58.0,1:27:45.914,25.0,2022,Abu Dhabi,Race-Result,VER
+2,16,Charles Leclerc,Ferrari,58.0,+8.771s,18.0,2022,Abu Dhabi,Race-Result,LEC
+3,11,Sergio Perez,Red Bull Racing RBPT,58.0,+10.093s,15.0,2022,Abu Dhabi,Race-Result,PER
+4,55,Carlos Sainz,Ferrari,58.0,+24.892s,12.0,2022,Abu Dhabi,Race-Result,SAI
+5,63,George Russell,Mercedes,58.0,+35.888s,10.0,2022,Abu Dhabi,Race-Result,RUS
+6,4,Lando Norris,McLaren Mercedes,58.0,+56.234s,9.0,2022,Abu Dhabi,Race-Result,NOR
+7,31,Esteban Ocon,Alpine Renault,58.0,+57.240s,6.0,2022,Abu Dhabi,Race-Result,OCO
+8,18,Lance Stroll,Aston Martin Aramco Mercedes,58.0,+76.931s,4.0,2022,Abu Dhabi,Race-Result,STR
+9,3,Daniel Ricciardo,McLaren Mercedes,58.0,+83.268s,2.0,2022,Abu Dhabi,Race-Result,RIC
+10,5,Sebastian Vettel,Aston Martin Aramco Mercedes,58.0,+83.898s,1.0,2022,Abu Dhabi,Race-Result,VET
+11,22,Yuki Tsunoda,AlphaTauri RBPT,58.0,+89.371s,0.0,2022,Abu Dhabi,Race-Result,TSU
+12,24,Zhou Guanyu,Alfa Romeo Ferrari,57.0,+1 lap,0.0,2022,Abu Dhabi,Race-Result,ZHO
+13,23,Alexander Albon,Williams Mercedes,57.0,+1 lap,0.0,2022,Abu Dhabi,Race-Result,ALB
+14,10,Pierre Gasly,AlphaTauri RBPT,57.0,+1 lap,0.0,2022,Abu Dhabi,Race-Result,GAS
+15,77,Valtteri Bottas,Alfa Romeo Ferrari,57.0,+1 lap,0.0,2022,Abu Dhabi,Race-Result,BOT
+16,47,Mick Schumacher,Haas Ferrari,57.0,+1 lap,0.0,2022,Abu Dhabi,Race-Result,MSC
+17,20,Kevin Magnussen,Haas Ferrari,57.0,+1 lap,0.0,2022,Abu Dhabi,Race-Result,MAG
+18,44,Lewis Hamilton,Mercedes,55.0,DNF,0.0,2022,Abu Dhabi,Race-Result,HAM
+19,6,Nicholas Latifi,Williams Mercedes,55.0,DNF,0.0,2022,Abu Dhabi,Race-Result,LAT
+NC,14,Fernando Alonso,Alpine Renault,27.0,DNF,0.0,2022,Abu Dhabi,Race-Result,ALO

@@ -19696,13 +19696,10 @@ Alpine Renault,02 Oct 2022,Fernando Alonso,Singapore,0.0,DNF,2022
 Alpine Renault,09 Oct 2022,Fernando Alonso,Japan,6.0,7,2022
 Alfa Romeo Ferrari,02 Oct 2022,Valtteri Bottas,Singapore,0.0,11,2022
 Alfa Romeo Ferrari,09 Oct 2022,Valtteri Bottas,Japan,0.0,15,2022
-Williams Mercedes,11 Sep 2022,Nyck De Vries,Italy,2.0,9,2022
 AlphaTauri RBPT,02 Oct 2022,Pierre Gasly,Singapore,1.0,10,2022
 AlphaTauri RBPT,09 Oct 2022,Pierre Gasly,Japan,0.0,18,2022
 Mercedes,02 Oct 2022,Lewis Hamilton,Singapore,2.0,9,2022
 Mercedes,09 Oct 2022,Lewis Hamilton,Japan,10.0,5,2022
-Aston Martin Aramco Mercedes,20 Mar 2022,Nico Hulkenberg,Bahrain,0.0,17,2022
-Aston Martin Aramco Mercedes,27 Mar 2022,Nico Hulkenberg,Saudi Arabia,0.0,12,2022
 Williams Mercedes,02 Oct 2022,Nicholas Latifi,Singapore,0.0,DNF,2022
 Williams Mercedes,09 Oct 2022,Nicholas Latifi,Japan,2.0,9,2022
 Ferrari,02 Oct 2022,Charles Leclerc,Singapore,18.0,2,2022
@@ -19733,3 +19730,86 @@ Aston Martin Aramco Mercedes,02 Oct 2022,Sebastian Vettel,Singapore,4.0,8,2022
 Aston Martin Aramco Mercedes,09 Oct 2022,Sebastian Vettel,Japan,8.0,6,2022
 Alfa Romeo Ferrari,02 Oct 2022,Guanyu Zhou,Singapore,0.0,DNF,2022
 Alfa Romeo Ferrari,09 Oct 2022,Guanyu Zhou,Japan,0.0,16,2022
+Williams Mercedes,23 Oct 2022,Alexander Albon,United States,0.0,13,2022
+Alpine Renault,23 Oct 2022,Fernando Alonso,United States,6.0,7,2022
+Alfa Romeo Ferrari,23 Oct 2022,Valtteri Bottas,United States,0.0,DNF,2022
+AlphaTauri RBPT,23 Oct 2022,Pierre Gasly,United States,0.0,14,2022
+Mercedes,23 Oct 2022,Lewis Hamilton,United States,18.0,2,2022
+Williams Mercedes,23 Oct 2022,Nicholas Latifi,United States,0.0,17,2022
+Ferrari,23 Oct 2022,Charles Leclerc,United States,15.0,3,2022
+Haas Ferrari,23 Oct 2022,Kevin Magnussen,United States,2.0,9,2022
+McLaren Mercedes,23 Oct 2022,Lando Norris,United States,8.0,6,2022
+Alpine Renault,23 Oct 2022,Esteban Ocon,United States,0.0,11,2022
+Red Bull Racing RBPT,23 Oct 2022,Sergio Perez,United States,12.0,4,2022
+McLaren Mercedes,23 Oct 2022,Daniel Ricciardo,United States,0.0,16,2022
+Mercedes,23 Oct 2022,George Russell,United States,11.0,5,2022
+Ferrari,23 Oct 2022,Carlos Sainz,United States,0.0,DNF,2022
+Haas Ferrari,23 Oct 2022,Mick Schumacher,United States,0.0,15,2022
+Aston Martin Aramco Mercedes,23 Oct 2022,Lance Stroll,United States,0.0,DNF,2022
+AlphaTauri RBPT,23 Oct 2022,Yuki Tsunoda,United States,1.0,10,2022
+Red Bull Racing RBPT,23 Oct 2022,Max Verstappen,United States,25.0,1,2022
+Aston Martin Aramco Mercedes,23 Oct 2022,Sebastian Vettel,United States,4.0,8,2022
+Alfa Romeo Ferrari,23 Oct 2022,Guanyu Zhou,United States,0.0,12,2022
+Williams Mercedes,30 Oct 2022,Alexander Albon,Mexico,0.0,12,2022
+Alpine Renault,30 Oct 2022,Fernando Alonso,Mexico,0.0,DNF,2022
+Alfa Romeo Ferrari,30 Oct 2022,Valtteri Bottas,Mexico,1.0,10,2022
+AlphaTauri RBPT,30 Oct 2022,Pierre Gasly,Mexico,0.0,11,2022
+Mercedes,30 Oct 2022,Lewis Hamilton,Mexico,18.0,2,2022
+Williams Mercedes,30 Oct 2022,Nicholas Latifi,Mexico,0.0,18,2022
+Ferrari,30 Oct 2022,Charles Leclerc,Mexico,8.0,6,2022
+Haas Ferrari,30 Oct 2022,Kevin Magnussen,Mexico,0.0,17,2022
+McLaren Mercedes,30 Oct 2022,Lando Norris,Mexico,2.0,9,2022
+Alpine Renault,30 Oct 2022,Esteban Ocon,Mexico,4.0,8,2022
+Red Bull Racing RBPT,30 Oct 2022,Sergio Perez,Mexico,15.0,3,2022
+McLaren Mercedes,30 Oct 2022,Daniel Ricciardo,Mexico,6.0,7,2022
+Mercedes,30 Oct 2022,George Russell,Mexico,13.0,4,2022
+Ferrari,30 Oct 2022,Carlos Sainz,Mexico,10.0,5,2022
+Haas Ferrari,30 Oct 2022,Mick Schumacher,Mexico,0.0,16,2022
+Aston Martin Aramco Mercedes,30 Oct 2022,Lance Stroll,Mexico,0.0,15,2022
+AlphaTauri RBPT,30 Oct 2022,Yuki Tsunoda,Mexico,0.0,DNF,2022
+Red Bull Racing RBPT,30 Oct 2022,Max Verstappen,Mexico,25.0,1,2022
+Aston Martin Aramco Mercedes,30 Oct 2022,Sebastian Vettel,Mexico,0.0,14,2022
+Alfa Romeo Ferrari,30 Oct 2022,Guanyu Zhou,Mexico,0.0,13,2022
+Williams Mercedes,13 Nov 2022,Alexander Albon,Brazil,0.0,15,2022
+Alpine Renault,13 Nov 2022,Fernando Alonso,Brazil,10.0,5,2022
+Alfa Romeo Ferrari,13 Nov 2022,Valtteri Bottas,Brazil,2.0,9,2022
+AlphaTauri RBPT,13 Nov 2022,Pierre Gasly,Brazil,0.0,14,2022
+Mercedes,13 Nov 2022,Lewis Hamilton,Brazil,24.0,2,2022
+Williams Mercedes,13 Nov 2022,Nicholas Latifi,Brazil,0.0,16,2022
+Ferrari,13 Nov 2022,Charles Leclerc,Brazil,15.0,4,2022
+Haas Ferrari,13 Nov 2022,Kevin Magnussen,Brazil,1.0,DNF,2022
+McLaren Mercedes,13 Nov 2022,Lando Norris,Brazil,2.0,DNF,2022
+Alpine Renault,13 Nov 2022,Esteban Ocon,Brazil,4.0,8,2022
+Red Bull Racing RBPT,13 Nov 2022,Sergio Perez,Brazil,10.0,7,2022
+McLaren Mercedes,13 Nov 2022,Daniel Ricciardo,Brazil,0.0,DNF,2022
+Mercedes,13 Nov 2022,George Russell,Brazil,34.0,1,2022
+Ferrari,13 Nov 2022,Carlos Sainz,Brazil,22.0,3,2022
+Haas Ferrari,13 Nov 2022,Mick Schumacher,Brazil,0.0,13,2022
+Aston Martin Aramco Mercedes,13 Nov 2022,Lance Stroll,Brazil,1.0,10,2022
+AlphaTauri RBPT,13 Nov 2022,Yuki Tsunoda,Brazil,0.0,17,2022
+Red Bull Racing RBPT,13 Nov 2022,Max Verstappen,Brazil,13.0,6,2022
+Aston Martin Aramco Mercedes,13 Nov 2022,Sebastian Vettel,Brazil,0.0,11,2022
+Alfa Romeo Ferrari,13 Nov 2022,Guanyu Zhou,Brazil,0.0,12,2022
+Williams Mercedes,20 Nov 2022,Alexander Albon,Abu Dhabi,0.0,13,2022
+Alpine Renault,20 Nov 2022,Fernando Alonso,Abu Dhabi,0.0,DNF,2022
+Alfa Romeo Ferrari,20 Nov 2022,Valtteri Bottas,Abu Dhabi,0.0,15,2022
+Williams Mercedes,11 Sep 2022,Nyck De Vries,Italy,2.0,9,2022
+AlphaTauri RBPT,20 Nov 2022,Pierre Gasly,Abu Dhabi,0.0,14,2022
+Mercedes,20 Nov 2022,Lewis Hamilton,Abu Dhabi,0.0,DNF,2022
+Aston Martin Aramco Mercedes,20 Mar 2022,Nico Hulkenberg,Bahrain,0.0,17,2022
+Aston Martin Aramco Mercedes,27 Mar 2022,Nico Hulkenberg,Saudi Arabia,0.0,12,2022
+Williams Mercedes,20 Nov 2022,Nicholas Latifi,Abu Dhabi,0.0,DNF,2022
+Ferrari,20 Nov 2022,Charles Leclerc,Abu Dhabi,18.0,2,2022
+Haas Ferrari,20 Nov 2022,Kevin Magnussen,Abu Dhabi,0.0,17,2022
+McLaren Mercedes,20 Nov 2022,Lando Norris,Abu Dhabi,9.0,6,2022
+Alpine Renault,20 Nov 2022,Esteban Ocon,Abu Dhabi,6.0,7,2022
+Red Bull Racing RBPT,20 Nov 2022,Sergio Perez,Abu Dhabi,15.0,3,2022
+McLaren Mercedes,20 Nov 2022,Daniel Ricciardo,Abu Dhabi,2.0,9,2022
+Mercedes,20 Nov 2022,George Russell,Abu Dhabi,10.0,5,2022
+Ferrari,20 Nov 2022,Carlos Sainz,Abu Dhabi,12.0,4,2022
+Haas Ferrari,20 Nov 2022,Mick Schumacher,Abu Dhabi,0.0,16,2022
+Aston Martin Aramco Mercedes,20 Nov 2022,Lance Stroll,Abu Dhabi,4.0,8,2022
+AlphaTauri RBPT,20 Nov 2022,Yuki Tsunoda,Abu Dhabi,0.0,11,2022
+Red Bull Racing RBPT,20 Nov 2022,Max Verstappen,Abu Dhabi,25.0,1,2022
+Aston Martin Aramco Mercedes,20 Nov 2022,Sebastian Vettel,Abu Dhabi,1.0,10,2022
+Alfa Romeo Ferrari,20 Nov 2022,Guanyu Zhou,Abu Dhabi,0.0,12,2022

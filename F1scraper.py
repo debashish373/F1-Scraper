@@ -80,8 +80,8 @@ for i,year in enumerate(range(2022,dt.datetime.today().year+1,1)):
 
 pd.read_csv(r'Summaries\fastest_laps.csv').append(fl).drop_duplicates(subset=fl.columns.tolist()).to_csv(r'Summaries\fastest_laps.csv',index=False)
 pd.read_csv(r'Summaries\race_summaries.csv').append(races).drop_duplicates(subset=races.columns.tolist()).to_csv(r'Summaries\race_summaries.csv',index=False)
-pd.read_csv(r'Summaries\driver_standings.csv').append(ds).drop_duplicates(subset=ds.columns.tolist()).to_csv(r'Summaries\driver_standings.csv',index=False)
-pd.read_csv(r'Summaries\constructor_standings.csv').append(cs).drop_duplicates(subset=cs.columns.tolist()).to_csv(r'Summaries\constructor_standings.csv',index=False)
+pd.read_csv(r'Summaries\driver_standings.csv').append(ds).drop_duplicates(subset=['Driver','Year'],keep='last').to_csv(r'Summaries\driver_standings.csv',index=False)
+pd.read_csv(r'Summaries\constructor_standings.csv').append(cs).drop_duplicates(subset=['Team','Year'],keep='last').to_csv(r'Summaries\constructor_standings.csv',index=False)
     
 #Detailed extracts
 ##########################################################################################################################
